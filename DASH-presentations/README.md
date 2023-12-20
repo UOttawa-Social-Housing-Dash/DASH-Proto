@@ -1,1 +1,1 @@
-This folder contain presentations on DASH project categorized by time.
+This folder contains presentations on the DASH project, organized by time.
