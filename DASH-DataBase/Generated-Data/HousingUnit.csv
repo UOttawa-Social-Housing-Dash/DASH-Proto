@@ -1,0 +1,1001 @@
+﻿housingUnitID,unitType,registryID,adress,city,provience,postalCode,numberOfBedroom,wheelchairAccessible
+1,Shelter,926,3940 South Cedar Tree Ct,Victoria,British Columbia,B2S 0G0,2,0
+2,Social_Housing,163,3017 Pine Tree Parkway,Fredericton,New Brunswick,H7P 3G5,4,1
+3,Affordable_Housing,1000,2478 New Oak Street,Saint John,New Brunswick,V9S 0Y9,3,0
+4,Market_Rental,675,2467 S Market Street,Regina,Saskatchewan,B3G 8H9,2,0
+5,Shelter,365,2381 Front Blvd,Cornwall,Prince Edward Island,P2M 9X4,5,1
+6,Affordable_Housing,411,491 White Prospect Hill Parkway,Halifax,Nova Scotia,R6V 2L0,3,1
+7,Market_Rental,512,499 Hazelwood Ct,Laval,Quebec,Y0B 6K4,1,0
+8,Social_Housing,776,1808 Market Hwy,Yorkton,Saskatchewan,L5E 8R8,3,0
+9,Social_Housing,265,27 West Fox Hill Ct,Yellowknife,Northwest Territories,S9E 0N7,4,0
+10,Social_Housing,829,1614 Mountain Court,Laval,Quebec,H9L 5J6,1,0
+11,Affordable_Housing,927,46 Cedar Tree Hwy,Charlottetown,Prince Edward Island,L4Y 6X1,2,0
+12,Social_Housing,63,217 South Pine Tree Ave,Edmonton,Alberta,K7J 1Z1,3,1
+13,Affordable_Housing,412,774 Ironwood Avenue,Sherbrooke,Quebec,L9X 9J8,4,1
+14,Market_Rental,513,2020 Town Ct,Mississauga,Ontario,M3Y 9W6,4,1
+15,Social_Housing,366,3433 Fox Hill Ln,Lethbridge,Alberta,H7Y 2B8,4,0
+16,Shelter,266,865 New Hazelwood Road,Brampton,Ontario,C9S 6X2,2,0
+17,Social_Housing,830,144 North Ashwood Cir,Whitehorse,Yukon Territory,M6Z 4Y0,1,0
+18,Hotel,367,2150 SW Riverview Avenue,Warman,Saskatchewan,C1R 9A6,4,0
+19,Social_Housing,267,3179 Parkwood Pkwy,Dawson City,Yukon Territory,Y9A 4N7,4,0
+20,Market_Rental,676,3656 Stonewood Parkway,Mississauga,Ontario,C6B 5W0,3,0
+21,Social_Housing,164,20 Waterview Loop,Sherbrooke,Quebec,H9L 6T9,4,0
+22,Affordable_Housing,777,1917 Parkwood Court,Yarmouth,Nova Scotia,V0S 3S3,1,0
+23,Market_Rental,677,85 Waterview Lane,Whitehorse,Yukon Territory,C0W 7T3,5,0
+24,Affordable_Housing,64,26 North Buttonwood Pkwy,Grande Prairie,Alberta,S9T 9T1,2,0
+25,Shelter,413,81 Rushwood Blvd,Moncton,New Brunswick,A0A 1J8,3,0
+26,Market_Rental,778,2631 White Lake Lane,Regina,Saskatchewan,N0K 5G0,1,0
+27,Social_Housing,514,85 White Mount Pkwy,Kelowna,British Columbia,N6L 0A8,5,0
+28,Market_Rental,928,303 SW Hunting Hill Loop,Winnipeg,Manitoba,K8T 7L6,2,0
+29,Affordable_Housing,165,611 Prospect Hill Drive,Richmond,British Columbia,M5Z 6B3,2,0
+30,Social_Housing,414,1537 N Fox Hill Pkwy,Ottawa,Ontario,B6X 5A4,1,0
+31,Social_Housing,368,121 Waterview Street,Estevan,Saskatchewan,L6G 7C7,2,0
+32,Hotel,65,3829 Hidden Sharp Hill Loop,Longueuil,Quebec,M2S 1L0,4,0
+33,Market_Rental,268,24 Edgewood Dr,London,Ontario,Y9H 2J0,1,0
+34,Market_Rental,369,413 Ashwood Loop,St. Albert,Alberta,A4H 9A5,3,0
+35,Market_Rental,269,2939 West Buttonwood Ct,Sherbrooke,Quebec,M9N 1A9,2,0
+36,Market_Rental,831,2019 North Edgewood Pkwy,Teslin,Yukon Territory,M4K 9R8,3,0
+37,Social_Housing,370,1760 W Waterview Highway,Warman,Saskatchewan,P6K 7L6,4,1
+38,Market_Rental,929,994 West Town Street,London,Ontario,H1P 9C0,4,0
+39,Affordable_Housing,515,34 East Town Blvd,Mississauga,Ontario,A0C 9H4,5,1
+40,Social_Housing,832,1874 Cedar Tree Circle,Mississauga,Ontario,B9H 9A9,5,1
+41,Social_Housing,678,2346 S Prospect Hill St,St. Albert,Alberta,S6L 9B6,1,0
+42,Affordable_Housing,930,35 South Sharp Hill Way,Kelowna,British Columbia,C6M 8H7,5,0
+43,Market_Rental,166,1947 Church Drive,Regina,Saskatchewan,B9K 7W4,2,0
+44,Market_Rental,833,3390 Glenwood Cir,Yarmouth,Nova Scotia,C5K 4K8,2,0
+45,Affordable_Housing,415,42 West Beachwood Street,Saskatoon,Saskatchewan,A4E 3G0,4,0
+46,Social_Housing,270,816 Hunting Hill Ct,Victoria,British Columbia,S3N 7Z0,1,0
+47,Social_Housing,66,3470 SW Ski Hill Ln,Grande Prairie,Alberta,V7P 4R9,2,1
+48,Affordable_Housing,779,3713 Burwood Loop,Fort Simpson,Northwest Territories,J1S 2E1,3,0
+49,Social_Housing,679,3782 New Stonewood Parkway,Montreal,Quebec,X5V 3R9,2,1
+50,Market_Rental,931,968 North Rose Hill Blvd,Windsor,Ontario,G9A 4A4,1,0
+51,Hotel,167,1491 Farmview Parkway,London,Ontario,N4E 8V5,5,0
+52,Social_Housing,371,2148 New Beachwood Road,Ottawa,Ontario,M8N 9Y5,1,0
+53,Social_Housing,67,240 Quailwood Avenue,Mount Pearl,Newfoundland and Labrador,A3W 5E8,4,0
+54,Social_Housing,834,950 North Hunting Hill Lane,Saskatoon,Saskatchewan,A7Z 6N2,3,0
+55,Affordable_Housing,516,2766 North Brentwood Blvd,Lethbridge,Alberta,H7V 4H5,4,0
+56,Social_Housing,416,409 East Ironwood Ln,Red Deer,Alberta,L4Z 7V9,4,0
+57,Social_Housing,271,2349 East Waterview Highway,Moncton,New Brunswick,G9P 5B5,5,1
+58,Market_Rental,517,1895 West Chapel Hill Street,Cornwall,Prince Edward Island,B4C 0A4,2,0
+59,Affordable_Housing,780,3465 West Buttonwood Ave,Toronto,Ontario,H6N 5M1,5,1
+60,Hotel,680,1014 Hunting Hill Way,Springfield,Manitoba,R0S 1C0,5,0
+61,Social_Housing,932,1882 Oak Highway,Vancouver,British Columbia,J4S 4T8,2,0
+62,Market_Rental,781,415 E Riddle Hill Highway,Whitehorse,Yukon Territory,J3K 7C9,5,0
+63,Affordable_Housing,372,2966 Parkwood Pkwy,Saint John,New Brunswick,V1K 4E4,3,0
+64,Market_Rental,272,3605 Sharp Hill Circle,Kitchener,Ontario,G4M 1Z5,4,0
+65,Market_Rental,417,63 East Riddle Hill Pkwy,Victoria,British Columbia,G6R 8T0,2,1
+66,Market_Rental,168,3845 Lake Ct,Kensington,Prince Edward Island,L0W 3V7,3,1
+67,Social_Housing,68,52 Farmview Ave,Brandon,Manitoba,S9X 2G5,4,0
+68,Hotel,681,1268 Social Blvd,Airdrie,Alberta,A7H 4C2,4,0
+69,Market_Rental,373,3544 Oak Circle,London,Ontario,N6N 5G5,2,0
+70,Social_Housing,273,68 Old Riverside Dr,Fort Smith,Northwest Territories,P7R 8C1,2,0
+71,Affordable_Housing,835,33 Rose Hill Avenue,Ottawa,Ontario,X9N 7K0,1,0
+72,Affordable_Housing,933,601 Town Dr,Brandon,Manitoba,J7H 6E6,4,0
+73,Social_Housing,782,99 Hunting Hill Road,Trois-Rivieres,Quebec,P1W 5V2,3,0
+74,Social_Housing,518,2106 Riddle Hill Ln,Edmonton,Alberta,L9P 3V8,1,0
+75,Market_Rental,169,3757 Ashwood Parkway,Fredericton,New Brunswick,L7A 2B9,5,0
+76,Market_Rental,374,1844 Fox Hill Hwy,Yarmouth,Nova Scotia,M7P 6S6,2,0
+77,Affordable_Housing,418,46 Red Market Blvd,St. Albert,Alberta,H8K 5G7,2,1
+78,Market_Rental,682,3957 Ironwood Loop,Iqaluit,Nunavut,X3H 7Y6,5,0
+79,Social_Housing,519,3569 South Quailwood Pkwy,Gatineau,Quebec,M5X 7Y6,4,1
+80,Affordable_Housing,274,1129 West Quailwood Parkway,Windsor,Ontario,G3X 8M3,2,0
+81,Hotel,419,98 Brentwood Drive,Drummondville,Quebec,J3G 5L6,3,0
+82,Shelter,836,3548 Rockwood Ave,Fort Smith,Northwest Territories,C1R 3J2,3,0
+83,Market_Rental,375,156 W Pine Tree Way,Airdrie,Alberta,X5J 0X6,2,0
+84,Hotel,69,3706 New Fox Hill Cir,London,Ontario,M1M 0V8,1,0
+85,Affordable_Housing,520,20 West Hunting Hill Parkway,Lethbridge,Alberta,A5Y 1H4,2,0
+86,Social_Housing,170,422 Stonewood Blvd,Longueuil,Quebec,Y1S 3G0,3,0
+87,Affordable_Housing,70,1769 Prospect Hill Highway,Yorkton,Saskatchewan,E2C 5J9,5,0
+88,Market_Rental,275,743 Highland Parkway,Surrey,British Columbia,C0T 7A6,1,0
+89,Affordable_Housing,783,98 Red Monument Highway,Regina,Saskatchewan,C1H 6J5,4,0
+90,Hotel,934,1445 2nd Ave,Yellowknife,Northwest Territories,E9E 8N9,4,0
+91,Shelter,420,2008 Town Lane,Yarmouth,Nova Scotia,L4C 6J4,1,1
+92,Affordable_Housing,837,42 Market Ave,Longueuil,Quebec,E6L 7B2,1,0
+93,Affordable_Housing,376,52 Burwood Rd,Dawson City,Yukon Territory,B1S 3A1,4,0
+94,Market_Rental,935,911 NE Market Ct,Fort Smith,Northwest Territories,H1B 9B8,2,0
+95,Hotel,838,10 Market Rd,Halifax,Nova Scotia,T4X 8G1,4,0
+96,Social_Housing,936,2738 Burwood Hwy,Kensington,Prince Edward Island,A6M 7W7,4,0
+97,Market_Rental,521,12 East Oak Drive,Edmonton,Alberta,L4J 2C5,5,0
+98,Social_Housing,839,3062 Meadowview Loop,Trois-Rivieres,Quebec,L0E 2P8,1,1
+99,Social_Housing,421,1578 W Rockwood St,Mount Pearl,Newfoundland and Labrador,P4J 1V0,5,0
+100,Affordable_Housing,522,3020 Rockwood Cir,Teslin,Yukon Territory,C2A 4J4,1,0
+101,Market_Rental,171,391 Cedar Tree Ct,Red Deer,Alberta,X7E 1M6,4,1
+102,Affordable_Housing,422,3077 White Sharp Hill Loop,Windsor,Ontario,Y9B 6M6,4,1
+103,Affordable_Housing,523,3494 Old Hunting Hill Ct,Drummondville,Quebec,N0M 2J2,4,0
+104,Market_Rental,276,852 1st Circle,Windsor,Ontario,N8K 1R9,2,0
+105,Affordable_Housing,71,469 West Woodland Loop,Longueuil,Quebec,A1T 2A7,4,0
+106,Affordable_Housing,172,880 Hazelwood Cir,Steinbach,Manitoba,B3T 6E1,5,1
+107,Market_Rental,423,2182 E Mount Parkway,Kugluktuk,Nunavut,E8X 4C6,1,1
+108,Social_Housing,524,339 Riddle Hill Ave,Lethbridge,Alberta,E3S 2X3,3,0
+109,Social_Housing,683,2522 East Rushwood Dr,Trois-Rivieres,Quebec,L1W 1G4,4,1
+110,Affordable_Housing,377,195 SW Flintwood Blvd,Mount Pearl,Newfoundland and Labrador,X2B 7C3,3,0
+111,Shelter,937,450 Chapel Hill Ave,Shelburne,Nova Scotia,V7Y 3W8,3,0
+112,Affordable_Housing,424,3450 88th Highway,Stephenville,Newfoundland and Labrador,S8G 5L5,5,0
+113,Hotel,840,679 New Beachwood Avenue,Vancouver,British Columbia,E3C 5G3,2,0
+114,Hotel,525,1276 Hidden Oak Lane,Toronto,Ontario,K1K 6G0,2,0
+115,Market_Rental,72,3894 Riverside Parkway,Edmonton,Alberta,X4J 3N0,5,1
+116,Hotel,938,1567 Hidden Stonewood Cir,Grande Prairie,Alberta,S7X 4A2,4,1
+117,Social_Housing,425,834 West Prospect Hill Ln,Shelburne,Nova Scotia,V1L 3J1,5,1
+118,Market_Rental,173,3793 Deepwood Highway,Drummondville,Quebec,J2A 9K8,3,0
+119,Affordable_Housing,784,2147 Buttonwood Loop,Surrey,British Columbia,J1B 7Y4,5,1
+120,Market_Rental,526,276 Ski Hill Dr,Laval,Quebec,P9W 4R9,3,0
+121,Affordable_Housing,73,3197 Woodrow Blvd,Moncton,New Brunswick,J6N 4W7,5,0
+122,Affordable_Housing,841,871 1st Street,Airdrie,Alberta,L0J 6G0,5,0
+123,Social_Housing,174,3854 Old Rose Hill Lane,Burnaby,British Columbia,T6A 2N7,5,1
+124,Social_Housing,277,420 SW Meadowview Parkway,Red Deer,Alberta,G4A 0A3,2,1
+125,Affordable_Housing,939,856 White Waterview Cir,Lethbridge,Alberta,M5C 9X5,5,0
+126,Social_Housing,74,387 West Market Loop,Montreal,Quebec,A0A 4S5,4,1
+127,Market_Rental,684,32 Social Parkway,Sherbrooke,Quebec,E1P 8Z2,1,0
+128,Affordable_Housing,842,1284 East Monument Ave,Mississauga,Ontario,C5W 3E7,5,0
+129,Social_Housing,426,2839 Rushwood Pkwy,Cambridge Bay,Nunavut,B5T 5C3,2,0
+130,Hotel,378,53 NE Edgewood Ln,Drummondville,Quebec,X0K 5P0,4,1
+131,Social_Housing,785,90 Oak Cir,Yellowknife,Northwest Territories,B3A 2J3,1,1
+132,Affordable_Housing,685,3928 1st Loop,Halifax,Nova Scotia,B7V 4J2,2,1
+133,Market_Rental,278,37 East Ironwood Blvd,Vancouver,British Columbia,S1R 4P3,4,0
+134,Affordable_Housing,175,3902 Riddle Hill Rd,Trois-Rivieres,Quebec,Y8A 7T1,1,0
+135,Hotel,75,1965 NW Front Drive,Teslin,Yukon Territory,G9M 9T4,3,1
+136,Social_Housing,176,577 Mount Cir,Kensington,Prince Edward Island,J5J 3B1,1,0
+137,Social_Housing,527,1995 SW Parkwood Ave,Fredericton,New Brunswick,P9K 4T9,2,0
+138,Market_Rental,76,261 N Mount Way,Gatineau,Quebec,B4J 0H9,4,0
+139,Social_Housing,177,2538 SW Beachwood Ct,Sherbrooke,Quebec,H0X 0S9,5,0
+140,Social_Housing,427,911 Riverside Lane,Trois-Rivieres,Quebec,G0K 3W8,5,1
+141,Social_Housing,528,377 2nd Avenue,Kitchener,Ontario,C7P 3S0,3,0
+142,Social_Housing,428,1191 Hidden Monument Pkwy,Halifax,Nova Scotia,G4A 7J0,5,0
+143,Affordable_Housing,529,941 White Fox Hill Avenue,Cornwall,Prince Edward Island,E0T 9W9,5,0
+144,Market_Rental,429,28 South Buttonwood Ln,Edmonton,Alberta,S0N 6A3,5,0
+145,Social_Housing,77,3028 Edgewood Ct,Winnipeg,Manitoba,T3H 9V4,2,0
+146,Social_Housing,178,48 Riverview Street,Kentville,Nova Scotia,J4M 6N6,4,1
+147,Hotel,940,1288 North Hunting Hill Parkway,Montreal,Quebec,N2X 6P1,1,1
+148,Hotel,843,44 NW Meadowview Avenue,Halifax,Nova Scotia,Y9M 2Y2,1,0
+149,Market_Rental,786,3729 NE Mountain Loop,Drummondville,Quebec,C9M 4A1,1,0
+150,Social_Housing,78,833 South Riverview Road,Airdrie,Alberta,S9M 3R6,4,0
+151,Market_Rental,379,30 Red Glenwood Highway,Shelburne,Nova Scotia,G5Z 6X9,1,0
+152,Market_Rental,530,1253 W Sharp Hill Parkway,Fort Smith,Northwest Territories,H8H 5R2,1,0
+153,Shelter,179,3944 Riddle Hill Loop,Lethbridge,Alberta,N7E 1W3,5,0
+154,Social_Housing,79,1173 South Mountain Ct,Cornwall,Prince Edward Island,A5W 0Y4,5,0
+155,Social_Housing,279,2869 Red Buttonwood Loop,Cambridge Bay,Nunavut,J3Y 3E1,1,0
+156,Affordable_Housing,380,1359 E Town Loop,Longueuil,Quebec,H7G 6Y4,2,0
+157,Social_Housing,430,593 Ski Hill Circle,London,Ontario,B3K 2G6,5,1
+158,Social_Housing,180,437 Hidden Prospect Hill Blvd,Mississauga,Ontario,Y7G 7V1,4,0
+159,Affordable_Housing,280,2200 W Glenwood Highway,Cambridge Bay,Nunavut,B6N 9X5,3,0
+160,Affordable_Housing,941,2346 Market Ave,Warman,Saskatchewan,K6J 8A6,3,0
+161,Shelter,531,2322 South Cedar Tree Drive,Kentville,Nova Scotia,M1E 3J5,1,1
+162,Affordable_Housing,686,3319 White Hope Court,Trois-Rivieres,Quebec,C8Y 1S9,3,1
+163,Market_Rental,844,1094 W Brentwood Street,Labrador City,Newfoundland and Labrador,P5V 7A8,3,0
+164,Affordable_Housing,431,3947 West Stonewood Ct,Steinbach,Manitoba,Y6G 7P5,4,1
+165,Affordable_Housing,532,653 Hidden Beachwood Ct,Ottawa,Ontario,A8A 3S9,4,0
+166,Social_Housing,80,77 Farmview Dr,Richmond,British Columbia,N6T 3N3,5,0
+167,Affordable_Housing,381,86 Mount Lane,Longueuil,Quebec,A3X 3S6,2,0
+168,Social_Housing,787,3002 Woodhurst Lane,Fort Smith,Northwest Territories,E6R 4W1,4,0
+169,Social_Housing,281,3818 Ironwood Blvd,Ottawa,Ontario,N9P 0M3,1,0
+170,Market_Rental,181,920 Ironwood Ave,Brampton,Ontario,R8S 5V4,4,0
+171,Affordable_Housing,432,31 8th Ct,Mount Pearl,Newfoundland and Labrador,B5V 3N2,4,1
+172,Affordable_Housing,533,2903 Oak Lane,St. Albert,Alberta,K4A 9H3,3,0
+173,Shelter,942,32 SE Hunting Hill Highway,Iqaluit,Nunavut,G7H 2R2,5,0
+174,Social_Housing,382,3495 Edgewood Ln,New Glasgow,Nova Scotia,Y2C 2X4,5,0
+175,Shelter,845,716 NW Quailwood Street,Fort Simpson,Northwest Territories,H5V 9L7,2,1
+176,Social_Housing,433,78 New Flintwood Street,London,Ontario,T9A 9T2,4,0
+177,Market_Rental,282,2096 Old Monument Lane,Kentville,Nova Scotia,M7B 2G7,3,0
+178,Affordable_Housing,534,2986 New Hope Rd,Trois-Rivieres,Quebec,E4G 4V4,2,1
+179,Social_Housing,383,3767 North Meadowview Highway,Bathurst,New Brunswick,J1A 3Z4,4,0
+180,Affordable_Housing,943,3242 SW Burwood Lane,Trois-Rivieres,Quebec,T7E 6Y2,3,1
+181,Affordable_Housing,283,212 Prospect Hill Lane,Kensington,Prince Edward Island,C2Y 2E7,3,1
+182,Social_Housing,846,1489 Highland Loop,Estevan,Saskatchewan,V4Z 7K8,1,0
+183,Shelter,81,1812 Hidden Riverside Lane,Windsor,Ontario,K4R 9M4,4,0
+184,Social_Housing,434,1967 Beachwood Lane,London,Ontario,E8L 0H8,2,0
+185,Hotel,182,946 Rushwood Loop,Vancouver,British Columbia,X5S 8X1,1,0
+186,Social_Housing,384,3810 Front Loop,Estevan,Saskatchewan,J0C 3X2,2,1
+187,Market_Rental,687,2453 Red Flintwood Highway,Airdrie,Alberta,N7J 1T8,2,0
+188,Hotel,284,2948 Market Blvd,Whitehorse,Yukon Territory,N1G 7X9,4,0
+189,Affordable_Housing,944,3882 Old Cedar Tree Ct,Victoria,British Columbia,H9X 8J2,5,1
+190,Social_Housing,788,1942 Monument Avenue,Labrador City,Newfoundland and Labrador,H0A 2X8,2,0
+191,Market_Rental,535,392 Riddle Hill Ct,Windsor,Ontario,G5A 3H9,5,0
+192,Market_Rental,385,3205 Prospect Hill Avenue,Mississauga,Ontario,G3L 4H3,5,1
+193,Affordable_Housing,688,618 Old Edgewood Cir,Halifax,Nova Scotia,R3Y 8T9,5,1
+194,Market_Rental,82,351 South Hunting Hill Ave,London,Ontario,C2L 5X6,2,0
+195,Affordable_Housing,847,795 Ashwood Avenue,Mississauga,Ontario,T6S 9B7,2,0
+196,Hotel,789,1268 West Glenwood Hwy,Yorkton,Saskatchewan,J0G 0M9,1,0
+197,Social_Housing,689,182 Chapel Hill Dr,Kitchener,Ontario,L4Z 3R6,5,0
+198,Social_Housing,183,1903 Hunting Hill Ct,Grande Prairie,Alberta,T4R 9C7,5,0
+199,Affordable_Housing,83,628 Rockwood Blvd,Toronto,Ontario,Y3P 4X5,3,1
+200,Social_Housing,945,1432 Chapel Hill Ct,Brampton,Ontario,H0H 2K5,2,1
+201,Hotel,848,850 Monument Loop,Saskatoon,Saskatchewan,S7E 9V7,2,1
+202,Affordable_Housing,184,1644 3rd Drive,Stephenville,Newfoundland and Labrador,B0Z 9P8,4,0
+203,Hotel,435,19 Flintwood Blvd,Longueuil,Quebec,N5R 0C6,5,0
+204,Market_Rental,790,2954 Woodbridge Ct,St. Albert,Alberta,G8H 6G0,4,0
+205,Shelter,536,3948 Hunting Hill Parkway,Cornwall,Prince Edward Island,K9B 1C7,5,1
+206,Shelter,946,3889 E Chapel Hill Hwy,Fredericton,New Brunswick,G8K 9P5,2,1
+207,Affordable_Housing,436,2152 New Ironwood Drive,Richmond,British Columbia,P7S 6J1,4,0
+208,Affordable_Housing,690,1994 W Burwood Ct,Cambridge Bay,Nunavut,A3G 0W5,5,0
+209,Affordable_Housing,84,3579 East Highland Ct,Shelburne,Nova Scotia,J7A 8N3,3,0
+210,Market_Rental,849,339 SW Ironwood Highway,Kelowna,British Columbia,X0W 8Y2,4,0
+211,Hotel,947,730 South Hunting Hill Court,Whitehorse,Yukon Territory,B8R 9K4,1,0
+212,Market_Rental,850,584 NE Ski Hill Cir,Fort Smith,Northwest Territories,S8X 3Z4,3,0
+213,Social_Housing,948,569 White Riverview Hwy,Edmonton,Alberta,M2P 5E5,5,0
+214,Social_Housing,537,28 N Bayview Highway,Kitchener,Ontario,P1B 8X8,3,1
+215,Market_Rental,791,417 Glenwood Lane,Lethbridge,Alberta,V7S 5Y5,2,0
+216,Affordable_Housing,437,54 Hidden Rushwood Pkwy,Cornwall,Prince Edward Island,S1A 2R0,1,0
+217,Market_Rental,538,1199 Buttonwood Drive,Steinbach,Manitoba,X3A 0K3,4,0
+218,Market_Rental,438,2073 Town Loop,Stephenville,Newfoundland and Labrador,G8Z 3N7,2,0
+219,Hotel,539,368 South Front Blvd,Cornwall,Prince Edward Island,R9P 3Z1,4,0
+220,Social_Housing,185,524 Edgewood Dr,Kamloops,British Columbia,R5R 6R5,1,0
+221,Social_Housing,439,2687 1st Street,Yorkton,Saskatchewan,N1M 1S8,5,0
+222,Market_Rental,851,17 Front Court,Regina,Saskatchewan,P3T 9V2,2,0
+223,Hotel,949,2298 Red Stonewood Blvd,Surrey,British Columbia,G9X 9W3,4,0
+224,Market_Rental,691,276 Front Highway,Windsor,Ontario,V5E 8W7,3,0
+225,Market_Rental,540,727 White Rock Hill Way,Calgary,Alberta,C3L 5E5,2,0
+226,Affordable_Housing,85,3593 Woodside Loop,St. Albert,Alberta,V1V 9X8,3,1
+227,Market_Rental,852,926 South Ashwood Loop,Drummondville,Quebec,V5C 2Y5,1,0
+228,Hotel,950,201 West Glenwood Ln,Mount Pearl,Newfoundland and Labrador,E2B 8G3,4,1
+229,Market_Rental,285,3408 East Oak Parkway,Edmonton,Alberta,G4J 3G4,4,1
+230,Market_Rental,386,3221 S Deepwood Court,Charlottetown,Prince Edward Island,P1Y 6A6,3,0
+231,Social_Housing,853,232 Hunting Hill Lane,Fort Simpson,Northwest Territories,B1E 6R7,5,1
+232,Hotel,286,2816 Burwood Blvd,Drummondville,Quebec,P1V 4N1,5,0
+233,Hotel,440,3426 South Rockwood Lane,Brampton,Ontario,M1B 9V5,1,0
+234,Social_Housing,541,836 North Glenwood Court,Victoria,British Columbia,H2S 7K7,2,0
+235,Hotel,951,1714 Bayview Pkwy,Kitchener,Ontario,B3G 3C6,1,0
+236,Market_Rental,186,94 Mount Blvd,Yarmouth,Nova Scotia,E0S 8V7,2,0
+237,Affordable_Housing,441,2248 Fox Hill Drive,Yellowknife,Northwest Territories,X4N 0J2,1,0
+238,Shelter,542,93 3rd Avenue,Ottawa,Ontario,C3N 9X4,4,0
+239,Affordable_Housing,854,56 Hazelwood Blvd,Gatineau,Quebec,J3Z 1B0,5,0
+240,Social_Housing,86,420 North Meadowview Blvd,Saskatoon,Saskatchewan,Y7X 7H3,2,0
+241,Market_Rental,792,108 Riverview Ct,Yellowknife,Northwest Territories,R0Z 9K8,4,0
+242,Shelter,952,593 East Farmview Blvd,Red Deer,Alberta,J2N 5N0,5,0
+243,Social_Housing,187,2746 Hidden Rose Hill Pkwy,Montreal,Quebec,L3C 8C5,3,1
+244,Shelter,87,43 89th Ct,Lethbridge,Alberta,J7C 7J1,1,1
+245,Affordable_Housing,855,3369 W Rockwood Pkwy,Windsor,Ontario,Y9V 1B2,4,0
+246,Market_Rental,442,2309 Sharp Hill Court,Whitehorse,Yukon Territory,C2E 0R2,5,0
+247,Market_Rental,543,3085 Hope Dr,Moncton,New Brunswick,Y3H 3X6,1,0
+248,Social_Housing,188,2957 Front Hwy,Richmond,British Columbia,A4P 5B4,2,0
+249,Market_Rental,443,2436 North Farmview Highway,Shelburne,Nova Scotia,B1V 9N4,1,0
+250,Market_Rental,544,165 South Ashwood Drive,Windsor,Ontario,M8H 9S9,1,0
+251,Hotel,88,44 South Woodland Blvd,Estevan,Saskatchewan,E7M 0Y5,2,0
+252,Affordable_Housing,387,3708 Social Blvd,Yorkton,Saskatchewan,R6X 9G4,1,0
+253,Social_Housing,692,2486 2nd Street,Fort Simpson,Northwest Territories,G7X 0X6,4,1
+254,Social_Housing,953,1199 South Bayview Avenue,Montreal,Quebec,J0M 1T2,4,0
+255,Market_Rental,287,3895 Church Ln,Longueuil,Quebec,H3W 0N1,4,0
+256,Market_Rental,856,35 Ironwood Hwy,St. Albert,Alberta,J7K 9V6,3,1
+257,Market_Rental,388,3927 Hidden Cedar Tree Cir,Trois-Rivieres,Quebec,S8W 1M9,4,0
+258,Market_Rental,954,2259 Red Rose Hill Lane,Stephenville,Newfoundland and Labrador,M2A 7R5,1,0
+259,Market_Rental,189,746 White Rockwood Lane,Yorkton,Saskatchewan,G8K 7T1,3,0
+260,Social_Housing,444,719 E Bayview Ln,Burnaby,British Columbia,G1X 2B6,3,1
+261,Shelter,857,42 Hidden Church Parkway,Windsor,Ontario,J0A 3C9,3,0
+262,Shelter,793,97 N Front Street,Yorkton,Saskatchewan,G8K 6B9,3,0
+263,Affordable_Housing,288,631 South Lake Ct,Whitehorse,Yukon Territory,B4N 4W2,2,0
+264,Shelter,955,880 Ski Hill Pkwy,Drummondville,Quebec,A2L 0G5,3,1
+265,Market_Rental,858,1811 NW Meadowview Lane,Halifax,Nova Scotia,S6Y 2C1,3,0
+266,Market_Rental,545,3379 W Monument Ln,Sherbrooke,Quebec,L7J 6B5,4,0
+267,Social_Housing,445,2660 W Sharp Hill Ct,Kugluktuk,Nunavut,J6G 3X9,2,1
+268,Market_Rental,389,3111 NW Bayview Dr,Vancouver,British Columbia,Y8W 5S4,2,1
+269,Affordable_Housing,693,2489 Rockwood Way,Trois-Rivieres,Quebec,M5S 2X1,4,1
+270,Social_Housing,794,710 Cedar Tree Ct,Kentville,Nova Scotia,E9E 9P7,1,0
+271,Social_Housing,89,239 Quailwood Rd,Iqaluit,Nunavut,Y2S 2W7,3,0
+272,Social_Housing,190,635 Hazelwood Rd,Halifax,Nova Scotia,A1S 1R3,5,0
+273,Social_Housing,546,491 W Mount Rd,Surrey,British Columbia,B9J 0J9,1,0
+274,Shelter,289,1885 Sharp Hill Ln,Springfield,Manitoba,Y9T 1B0,4,0
+275,Affordable_Housing,390,2137 Stonewood Avenue,Cornwall,Prince Edward Island,K6Z 2Z3,3,0
+276,Affordable_Housing,446,637 Woodfort Circle,Kugluktuk,Nunavut,H7B 7L2,5,1
+277,Hotel,956,3767 NE Town Ct,Vancouver,British Columbia,A6H 0X7,5,0
+278,Social_Housing,859,1705 White Social Loop,Fredericton,New Brunswick,R7Z 5G4,2,0
+279,Social_Housing,694,106 Red Riddle Hill Way,Cambridge Bay,Nunavut,J9Z 8T8,2,0
+280,Social_Housing,90,2380 South Hazelwood Cir,Winnipeg,Manitoba,V6N 2Y6,5,1
+281,Hotel,795,181 East Rose Hill Court,Ottawa,Ontario,L7K 4H6,2,0
+282,Hotel,695,2071 Hidden Flintwood St,Shelburne,Nova Scotia,A8R 0P8,3,0
+283,Hotel,547,1767 South Farmview Way,Halifax,Nova Scotia,E7V 5B1,4,0
+284,Market_Rental,957,2929 Quailwood Hwy,Airdrie,Alberta,Y7C 5P5,5,0
+285,Social_Housing,191,3475 Riddle Hill Pkwy,Winkler,Manitoba,B0Z 6Y5,4,1
+286,Shelter,796,97 West Oak Ln,St. Albert,Alberta,E0J 2C0,1,1
+287,Affordable_Housing,696,1774 Chapel Hill Highway,Longueuil,Quebec,P6V 9A3,5,0
+288,Affordable_Housing,447,34 West Hazelwood Hwy,Iqaluit,Nunavut,E3B 3H6,1,0
+289,Social_Housing,91,204 North Front Ct,Iqaluit,Nunavut,P9R 0Y5,4,0
+290,Market_Rental,192,2754 Buttonwood Street,Estevan,Saskatchewan,B7E 9V4,1,0
+291,Social_Housing,860,299 Riddle Hill Parkway,Mississauga,Ontario,E9K 7M5,3,0
+292,Affordable_Housing,797,81 Monument Lane,Brampton,Ontario,L6C 3B2,1,0
+293,Shelter,548,2120 Old Town Dr,Lethbridge,Alberta,P3R 2N4,5,0
+294,Affordable_Housing,448,30 North Quailwood Ct,Shelburne,Nova Scotia,V9E 6J0,4,0
+295,Affordable_Housing,290,3316 Farmview Parkway,Yarmouth,Nova Scotia,L5J 8J3,5,0
+296,Social_Housing,92,1240 White Riverview Ln,Whitehorse,Yukon Territory,P5G 0H1,5,0
+297,Social_Housing,549,284 N Pine Tree Circle,New Glasgow,Nova Scotia,J8S 2S3,1,0
+298,Affordable_Housing,391,3753 E Farmview Lane,Fort Smith,Northwest Territories,X3T 4C2,1,0
+299,Hotel,193,797 Rock Hill Parkway,Regina,Saskatchewan,M4A 4W3,1,0
+300,Shelter,291,2212 Rushwood Road,Brandon,Manitoba,R3S 3H5,1,0
+301,Hotel,93,580 NW Bayview Parkway,Regina,Saskatchewan,N8C 3V2,3,1
+302,Market_Rental,194,676 Old Fox Hill St,Sherbrooke,Quebec,M1G 6V2,5,0
+303,Market_Rental,449,37 SW Lake Ct,Charlottetown,Prince Edward Island,L4T 5T7,4,0
+304,Market_Rental,697,19 Meadowview Parkway,Drummondville,Quebec,A4S 4J2,3,0
+305,Market_Rental,392,1082 Rose Hill Hwy,Cornwall,Prince Edward Island,K7X 5S6,3,1
+306,Affordable_Housing,94,27 Stonewood Loop,London,Ontario,K3G 5K9,4,1
+307,Social_Housing,798,898 SW Buttonwood Court,Iqaluit,Nunavut,X2Y 9X9,3,1
+308,Hotel,292,1046 East Meadowview Lane,Teslin,Yukon Territory,V7X 8R0,4,0
+309,Market_Rental,550,3488 Hidden Mountain Loop,Montreal,Quebec,V1E 2Y6,4,0
+310,Affordable_Housing,958,3210 Prospect Hill Lane,Steinbach,Manitoba,N8R 3E1,2,0
+311,Social_Housing,195,2241 Town Street,Winnipeg,Manitoba,P0R 8N5,1,0
+312,Hotel,393,77 Red Fox Hill Road,Estevan,Saskatchewan,Y5P 0V7,5,0
+313,Shelter,95,577 E Woodside Ln,Yarmouth,Nova Scotia,N6B 8T5,5,0
+314,Market_Rental,196,122 Old Chapel Hill Court,Iqaluit,Nunavut,B9Y 7B6,2,0
+315,Affordable_Housing,698,468 3rd St,Iqaluit,Nunavut,Y3A 0A6,5,0
+316,Market_Rental,96,625 Social Court,St. Albert,Alberta,J9T 1G8,4,1
+317,Market_Rental,293,2227 Riddle Hill Street,Kelowna,British Columbia,E8B 0P7,2,0
+318,Shelter,450,2859 Hazelwood Street,Labrador City,Newfoundland and Labrador,M4Z 7V7,5,0
+319,Affordable_Housing,799,2421 NE Rock Hill Road,London,Ontario,H9J 0C7,5,1
+320,Social_Housing,394,2591 Beachwood Drive,Springfield,Manitoba,K1A 0L4,1,0
+321,Affordable_Housing,699,594 Burwood Lane,Lethbridge,Alberta,R9J 6B7,2,1
+322,Hotel,861,60 Sharp Hill Highway,Kamloops,British Columbia,B1A 4N3,2,0
+323,Hotel,294,832 Highland Ct,Kitchener,Ontario,S7E 5S3,4,0
+324,Shelter,551,100 Rushwood Circle,Whitehorse,Yukon Territory,C0Y 3B9,1,0
+325,Market_Rental,800,3826 S Bayview Ct,St. Albert,Alberta,A8J 1H4,2,0
+326,Hotel,451,3673 Hidden Bayview Ct,Longueuil,Quebec,C3Y 3J6,5,0
+327,Hotel,700,2307 SW Glenwood Avenue,Richmond,British Columbia,R8A 6W4,2,0
+328,Market_Rental,197,92 Oak Blvd,Labrador City,Newfoundland and Labrador,T0K 3Z7,2,0
+329,Social_Housing,959,1153 North Rose Hill Highway,Gatineau,Quebec,P8J 8X7,2,0
+330,Social_Housing,395,2970 3rd Court,Brandon,Manitoba,M2Y 0W8,1,0
+331,Affordable_Housing,862,724 Sharp Hill Pkwy,Red Deer,Alberta,H2W 5G9,5,0
+332,Social_Housing,552,1566 W Edgewood Blvd,Grande Prairie,Alberta,R8B 9M1,2,1
+333,Affordable_Housing,801,920 East Buttonwood Loop,Winkler,Manitoba,A4X 7N8,5,0
+334,Shelter,452,2371 Fox Hill Blvd,Drummondville,Quebec,N6S 6C7,1,1
+335,Social_Housing,97,3738 Social Lane,Kitchener,Ontario,C5P 1M0,2,0
+336,Market_Rental,553,2587 E Hunting Hill Pkwy,Burnaby,British Columbia,T4E 1X1,3,0
+337,Market_Rental,295,1871 Mountain Highway,Moncton,New Brunswick,E4W 5L2,3,0
+338,Market_Rental,701,321 SE Cedar Tree Ct,Stephenville,Newfoundland and Labrador,C4W 9A1,5,0
+339,Social_Housing,802,2882 Chapel Hill Highway,Richmond,British Columbia,V1L 4B6,1,0
+340,Hotel,198,1285 Chapel Hill Lane,Regina,Saskatchewan,Y4A 2C9,1,1
+341,Affordable_Housing,960,3174 Old Market Ln,Whitehorse,Yukon Territory,R1T 7C2,4,1
+342,Hotel,396,3777 Rockwood Ln,Laval,Quebec,R6A 8E2,1,0
+343,Shelter,98,29 East Buttonwood Ct,Saskatoon,Saskatchewan,M4M 5K6,3,0
+344,Market_Rental,296,185 Hidden Rose Hill Highway,Yellowknife,Northwest Territories,J9W 4Z7,1,1
+345,Market_Rental,199,1773 Monument Court,Trois-Rivieres,Quebec,G1W 6M4,2,0
+346,Social_Housing,453,2284 Ironwood Ln,Montreal,Quebec,J9V 1A7,5,0
+347,Market_Rental,554,2523 NW Rock Hill Circle,Red Deer,Alberta,L4H 0K0,3,0
+348,Hotel,454,73 Old Waterview Avenue,Vancouver,British Columbia,L7V 0G2,2,0
+349,Social_Housing,702,2397 S Riverside Court,Halifax,Nova Scotia,K8P 3X9,4,0
+350,Affordable_Housing,99,112 Highland Street,Longueuil,Quebec,V5Z 7M5,2,0
+351,Affordable_Housing,863,1740 3rd Lane,Saskatoon,Saskatchewan,P9X 8N8,1,0
+352,Affordable_Housing,200,1720 New Rose Hill Loop,Dawson City,Yukon Territory,C9K 3R3,4,0
+353,Social_Housing,803,24 N Burwood Way,Kamloops,British Columbia,L4Y 4B7,3,0
+354,Affordable_Housing,961,602 Old Ski Hill Loop,Labrador City,Newfoundland and Labrador,E8S 8Y3,1,0
+355,Social_Housing,555,2951 Quailwood Ave,Red Deer,Alberta,J8S 0Y3,4,1
+356,Social_Housing,100,1137 E Riverside Rd,Fort Smith,Northwest Territories,C1P 7W8,4,0
+357,Social_Housing,864,1621 Red Highland Dr,Gatineau,Quebec,A3E 5T6,2,1
+358,Social_Housing,962,25 E Riddle Hill Highway,Lethbridge,Alberta,J0S 1R1,2,0
+359,Market_Rental,201,3678 Red Mountain Rd,Winnipeg,Manitoba,C0B 3P2,1,1
+360,Social_Housing,703,2301 Town Hwy,Kugluktuk,Nunavut,X4G 8B7,3,0
+361,Hotel,397,799 East Pine Tree Road,London,Ontario,B1J 1C3,1,0
+362,Social_Housing,804,3999 Quailwood Way,Labrador City,Newfoundland and Labrador,B8Y 5N6,5,0
+363,Affordable_Housing,297,3077 Church Ct,Ottawa,Ontario,S9Z 1B9,3,0
+364,Hotel,398,453 East Town Ave,St. Albert,Alberta,E6A 8A7,1,0
+365,Market_Rental,865,2607 S Farmview Highway,New Glasgow,Nova Scotia,V0V 5N4,2,1
+366,Hotel,455,2309 East Waterview Ave,Mississauga,Ontario,A0K 7C5,4,0
+367,Affordable_Housing,704,2301 Front Dr,Moncton,New Brunswick,A3T 7W6,1,0
+368,Market_Rental,556,2905 South Burwood Dr,Mississauga,Ontario,B0E 5E2,4,0
+369,Shelter,101,307 Hidden Rockwood Circle,Edmonton,Alberta,V4A 9K6,4,0
+370,Affordable_Housing,298,124 Hidden Buttonwood Avenue,Ottawa,Ontario,Y8R 9Z7,1,0
+371,Social_Housing,963,1169 NW Riverside Road,Trois-Rivieres,Quebec,G6K 2C1,4,0
+372,Market_Rental,604,20 East Deepwood Ct,Fort Simpson,Northwest Territories,L3K 8P1,1,0
+373,Shelter,705,964 Waterview Ct,Saint John,New Brunswick,G9C 3A9,2,0
+374,Shelter,605,1394 Hazelwood Ct,Brampton,Ontario,E0Y 6C7,4,0
+375,Hotel,399,478 Flintwood Blvd,Lethbridge,Alberta,J1R 2E0,5,0
+376,Hotel,456,1931 Meadowview Blvd,Drummondville,Quebec,V7W 9T4,1,0
+377,Social_Housing,866,2882 Front Pkwy,Toronto,Ontario,J9M 7R1,5,1
+378,Market_Rental,1,32 Ski Hill Rd,Kelowna,British Columbia,C5K 0L7,4,0
+379,Hotel,557,124 Brentwood Hwy,Charlottetown,Prince Edward Island,T8K 5J9,4,0
+380,Hotel,299,3126 SW Hunting Hill Hwy,Laval,Quebec,G1Z 0V3,3,1
+381,Market_Rental,964,484 East Prospect Hill Circle,Fort Simpson,Northwest Territories,T4L 9K3,3,0
+382,Market_Rental,400,94 South Deepwood St,Fort Simpson,Northwest Territories,E9R 6K3,4,1
+383,Hotel,300,361 Sharp Hill Ln,Kelowna,British Columbia,E3M 4K4,5,0
+384,Affordable_Housing,867,102 Edgewood Hwy,Fort Simpson,Northwest Territories,N8H 8E7,3,0
+385,Market_Rental,457,1598 4th Ct,Steinbach,Manitoba,H0J 8Y0,4,0
+386,Social_Housing,965,1226 Front Way,Mount Pearl,Newfoundland and Labrador,K3J 3C9,3,0
+387,Social_Housing,868,812 SW Parkwood Loop,Winnipeg,Manitoba,G4N 2E4,3,1
+388,Market_Rental,966,1228 New Burwood Hwy,Edmonton,Alberta,Y6S 0K3,3,0
+389,Affordable_Housing,869,1760 E Hope Street,Iqaluit,Nunavut,N9M 3P3,3,0
+390,Social_Housing,967,12 Bayview Hwy,Warman,Saskatchewan,R8P 3L0,3,0
+391,Hotel,706,300 East Ski Hill Blvd,Teslin,Yukon Territory,K0A 6V3,1,0
+392,Affordable_Housing,401,3448 SE Hunting Hill Highway,New Glasgow,Nova Scotia,Y7V 3L8,3,0
+393,Market_Rental,558,2392 East Fox Hill Pkwy,Laval,Quebec,S9L 9E7,4,0
+394,Market_Rental,870,2440 NE Ski Hill Highway,Dawson City,Yukon Territory,E6T 4M7,1,0
+395,Social_Housing,606,854 Quailwood Street,Yellowknife,Northwest Territories,T4E 3S7,4,0
+396,Social_Housing,301,827 Rushwood Loop,Calgary,Alberta,Y9A 7L6,3,0
+397,Social_Housing,968,3007 W Meadowview Street,Labrador City,Newfoundland and Labrador,N2J 2N4,5,1
+398,Market_Rental,871,303 Woodbridge Circle,Gatineau,Quebec,G2X 8W4,5,0
+399,Market_Rental,402,1261 SW Farmview Loop,Drummondville,Quebec,E6G 3C2,4,0
+400,Social_Housing,458,2209 S Glenwood Ln,Laval,Quebec,A4G 2J7,3,1
+401,Market_Rental,969,372 East Rockwood Rd,Brandon,Manitoba,H9S 6K1,1,0
+402,Market_Rental,102,1503 North Brentwood Circle,Burnaby,British Columbia,V5L 4G4,5,0
+403,Social_Housing,302,1200 Riddle Hill Court,Ottawa,Ontario,S1M 8A4,3,0
+404,Affordable_Housing,559,2343 South Prospect Hill St,Steinbach,Manitoba,L1X 1P7,3,1
+405,Affordable_Housing,2,130 Town Ct,Cambridge Bay,Nunavut,L3R 1E6,4,0
+406,Affordable_Housing,103,2186 Waterview Ave,Mount Pearl,Newfoundland and Labrador,C5G 7S0,5,1
+407,Market_Rental,202,1417 Fox Hill Hwy,Estevan,Saskatchewan,M2C 4Y5,5,0
+408,Affordable_Housing,872,35 Oak Dr,Ottawa,Ontario,L6M 6T3,5,0
+409,Hotel,459,3653 South Cedar Tree Rd,Grande Prairie,Alberta,J7B 2B0,4,0
+410,Affordable_Housing,3,3513 White Quailwood Ct,Kitchener,Ontario,N6A 2N4,2,0
+411,Social_Housing,104,3545 SW Parkwood St,Drummondville,Quebec,R4T 7M2,2,1
+412,Social_Housing,707,2958 Ironwood Ct,Fredericton,New Brunswick,G9E 3B2,3,0
+413,Affordable_Housing,560,1040 White Flintwood Ct,Ottawa,Ontario,T2B 2R8,5,0
+414,Social_Housing,970,2805 East Town Hwy,Kugluktuk,Nunavut,Y8R 3B7,2,0
+415,Affordable_Housing,873,130 Cedar Tree Highway,Fort Smith,Northwest Territories,X9W 9G1,5,0
+416,Hotel,4,1410 Burwood Rd,Edmonton,Alberta,S8J 9M4,1,0
+417,Affordable_Housing,303,2730 Hazelwood Loop,Gatineau,Quebec,G1L 5E2,1,0
+418,Market_Rental,460,64 E Parkwood Ln,Cambridge Bay,Nunavut,T2E 6E8,5,0
+419,Market_Rental,607,3040 Rose Hill Highway,Brampton,Ontario,N9P 6C2,1,0
+420,Market_Rental,971,3333 Quailwood Pkwy,Kensington,Prince Edward Island,H6Y 9V7,5,0
+421,Affordable_Housing,708,1750 Hidden Hunting Hill Street,Yellowknife,Northwest Territories,V1N 7R6,3,1
+422,Shelter,608,227 Red Stonewood Highway,Labrador City,Newfoundland and Labrador,H3K 9E4,4,0
+423,Affordable_Housing,709,908 SE Rose Hill Ct,Drummondville,Quebec,P6K 9G3,3,0
+424,Affordable_Housing,105,58 Social Ln,Kamloops,British Columbia,Y5H 4C7,1,0
+425,Market_Rental,561,2531 Cedar Tree Dr,Springfield,Manitoba,K5H 6W6,5,1
+426,Shelter,461,38 W Rose Hill Cir,Surrey,British Columbia,A8B 5Y7,2,1
+427,Market_Rental,5,968 West Flintwood Lane,Cambridge Bay,Nunavut,M5J 9M1,3,1
+428,Hotel,874,2779 North Hazelwood Ln,Kensington,Prince Edward Island,B5A 2H2,2,0
+429,Shelter,972,2100 South Flintwood Rd,Kelowna,British Columbia,X4L 4N0,2,1
+430,Affordable_Housing,106,25 Quailwood Pkwy,Longueuil,Quebec,L0V 5V0,1,0
+431,Affordable_Housing,562,410 South Hope Hwy,Airdrie,Alberta,B6B 3N8,2,0
+432,Social_Housing,6,899 Quailwood Blvd,Montreal,Quebec,N6L 5V3,5,0
+433,Market_Rental,609,3755 E Rose Hill St,Stephenville,Newfoundland and Labrador,L1Z 2M8,2,0
+434,Hotel,875,2397 Flintwood Dr,Kentville,Nova Scotia,L1M 7B3,1,0
+435,Market_Rental,203,49 SE Hazelwood Blvd,Winkler,Manitoba,T0Y 2E8,4,0
+436,Market_Rental,973,3992 Red Mountain Lane,Montreal,Quebec,L7A 4R6,5,0
+437,Market_Rental,876,84 SW Parkwood Pkwy,Steinbach,Manitoba,B0L 6T4,4,0
+438,Social_Housing,974,413 Rushwood Lane,Dawson City,Yukon Territory,N8L 4Z6,5,0
+439,Social_Housing,710,519 Quailwood Loop,Montreal,Quebec,P6B 0V4,5,0
+440,Social_Housing,304,3857 East Riddle Hill Highway,Airdrie,Alberta,C9S 3E6,1,0
+441,Social_Housing,462,340 NW Rockwood Highway,Mount Pearl,Newfoundland and Labrador,B9R 4S3,1,0
+442,Hotel,877,1028 Ski Hill Ln,Bathurst,New Brunswick,L1C 2V4,1,1
+443,Social_Housing,563,3359 Cedar Tree Parkway,Ottawa,Ontario,E0L 8L4,1,0
+444,Market_Rental,975,2007 Hidden Beachwood Highway,Winnipeg,Manitoba,R0K 8J0,4,1
+445,Social_Housing,610,3692 E Market Pkwy,Edmonton,Alberta,P6G 3A7,5,0
+446,Affordable_Housing,878,1588 Red Hazelwood Highway,Bathurst,New Brunswick,J4V 9G2,1,1
+447,Market_Rental,976,132 Sharp Hill Hwy,Windsor,Ontario,M9R 1W6,4,0
+448,Hotel,711,1930 Prospect Hill Circle,Kensington,Prince Edward Island,K9C 6E2,3,0
+449,Shelter,879,1240 White Rose Hill Ct,Longueuil,Quebec,T3W 7L1,2,1
+450,Social_Housing,463,3930 Town Way,Fredericton,New Brunswick,R5B 7M4,1,0
+451,Hotel,977,1047 Hidden Beachwood Street,London,Ontario,G7T 1Y1,3,0
+452,Social_Housing,564,2594 Highland St,Longueuil,Quebec,E7P 2G2,5,0
+453,Social_Housing,107,772 E Beachwood Street,Whitehorse,Yukon Territory,B9H 2V6,5,0
+454,Social_Housing,204,3211 Deepwood Avenue,Longueuil,Quebec,E8Y 3K9,3,0
+455,Affordable_Housing,880,261 SW Bayview St,Dawson City,Yukon Territory,N6A 1N3,4,1
+456,Social_Housing,305,1490 East Rock Hill Parkway,Mount Pearl,Newfoundland and Labrador,N9W 2A1,3,0
+457,Affordable_Housing,205,38 Lake Ln,Estevan,Saskatchewan,T3A 2N4,4,1
+458,Shelter,306,1569 Hidden Oak Circle,Bathurst,New Brunswick,C5M 3P9,2,0
+459,Shelter,7,52 Old Lake Ct,Toronto,Ontario,L6G 2L3,5,0
+460,Hotel,611,3026 Meadowview Street,Kitchener,Ontario,G3T 3N5,4,0
+461,Affordable_Housing,108,1391 Monument Ct,St. Albert,Alberta,K2H 1G0,1,0
+462,Social_Housing,206,451 Chapel Hill Loop,Springfield,Manitoba,Y1G 8G6,4,0
+463,Market_Rental,8,962 Prospect Hill Ct,Steinbach,Manitoba,G2B 1M9,2,0
+464,Social_Housing,307,3385 SW Stonewood Drive,Victoria,British Columbia,Y9T 7L2,3,0
+465,Social_Housing,712,2259 East Stonewood Drive,Charlottetown,Prince Edward Island,J5E 5J1,1,0
+466,Market_Rental,109,3538 NW Quailwood Lane,Red Deer,Alberta,H3K 3R4,2,0
+467,Social_Housing,9,1503 Ski Hill Highway,Shelburne,Nova Scotia,Y5Z 1N2,3,1
+468,Market_Rental,464,50 New Chapel Hill Road,Montreal,Quebec,N1C 5S8,4,0
+469,Affordable_Housing,565,1293 South Hazelwood Highway,Kensington,Prince Edward Island,M8W 1G3,4,0
+470,Affordable_Housing,110,423 North Riverside Pkwy,Bathurst,New Brunswick,E9V 0S9,3,1
+471,Market_Rental,207,606 Hidden Mount Blvd,Iqaluit,Nunavut,T5H 5S0,1,1
+472,Social_Housing,465,932 Ironwood Ct,Fort Smith,Northwest Territories,B7N 4K3,3,1
+473,Hotel,612,45 44th Loop,Kelowna,British Columbia,K2H 4M6,2,0
+474,Affordable_Housing,308,415 East Ski Hill Pkwy,Iqaluit,Nunavut,L8V 3B8,1,1
+475,Shelter,566,3261 W Rock Hill Street,Iqaluit,Nunavut,M9H 6K3,5,0
+476,Hotel,713,189 Social Rd,Teslin,Yukon Territory,A5A 3A1,5,0
+477,Shelter,208,2121 East Rushwood Highway,Longueuil,Quebec,A1X 5M6,2,1
+478,Affordable_Housing,613,2414 Old Rose Hill St,Dawson City,Yukon Territory,K7Z 8T9,2,0
+479,Affordable_Housing,309,550 Old Cedar Tree Ln,Stephenville,Newfoundland and Labrador,G1A 8C2,5,0
+480,Affordable_Housing,466,1610 Parkwood Hwy,Kitchener,Ontario,X0Z 7C8,2,1
+481,Hotel,714,1324 Prospect Hill Avenue,New Glasgow,Nova Scotia,K2P 7P8,5,1
+482,Social_Housing,209,3747 2nd Road,Toronto,Ontario,N3C 5B1,5,0
+483,Social_Housing,978,1510 Old Cedar Tree Road,Longueuil,Quebec,C7G 1K2,2,0
+484,Social_Housing,310,3422 Burwood Loop,Regina,Saskatchewan,K9N 5T2,2,0
+485,Market_Rental,10,953 Hidden Riddle Hill Ln,Kamloops,British Columbia,H8P 2G1,1,0
+486,Social_Housing,881,1284 South Fox Hill Blvd,Stephenville,Newfoundland and Labrador,V0H 7M8,3,0
+487,Social_Housing,979,2047 Town Highway,Regina,Saskatchewan,V3L 5Z3,1,0
+488,Market_Rental,567,676 2nd Parkway,Shelburne,Nova Scotia,K5Y 6G1,5,0
+489,Social_Housing,111,2157 NW Lake Hwy,Estevan,Saskatchewan,N7A 6L1,1,0
+490,Affordable_Housing,11,16 SW Hope Avenue,Airdrie,Alberta,T4R 2W7,1,0
+491,Affordable_Housing,467,1136 Deepwood Ln,Red Deer,Alberta,L9G 3M6,5,0
+492,Social_Housing,568,75 Social Pkwy,Drummondville,Quebec,N1L 3S6,2,0
+493,Shelter,882,3985 Chapel Hill Way,Red Deer,Alberta,C4X 8H0,2,0
+494,Affordable_Housing,112,2714 Old Lake Ln,Teslin,Yukon Territory,J7P 7G0,3,1
+495,Hotel,210,2834 East Buttonwood Ln,Kelowna,British Columbia,A5P 2N4,4,0
+496,Social_Housing,311,2641 South Brentwood Hwy,Saskatoon,Saskatchewan,Y1W 1H6,3,0
+497,Market_Rental,980,3442 NE Fox Hill Hwy,Red Deer,Alberta,X2A 9T6,5,0
+498,Hotel,12,651 Rockwood Ave,Moncton,New Brunswick,Y6L 4K2,2,1
+499,Market_Rental,211,266 69th Highway,Toronto,Ontario,V4K 5C3,3,0
+500,Social_Housing,614,2211 North Hope Hwy,Red Deer,Alberta,M9L 9A4,5,1
+501,Affordable_Housing,883,140 Front Lane,Brandon,Manitoba,C5T 4Y0,2,0
+502,Social_Housing,312,70 W Buttonwood Avenue,Iqaluit,Nunavut,H6L 6N8,2,0
+503,Affordable_Housing,113,426 Front Pkwy,Fort Smith,Northwest Territories,J4A 9M5,5,1
+504,Social_Housing,981,3537 E Prospect Hill Ct,Cambridge Bay,Nunavut,J9B 0M2,5,1
+505,Affordable_Housing,212,2936 Sharp Hill Hwy,Whitehorse,Yukon Territory,V0V 0M6,5,1
+506,Affordable_Housing,468,1897 Red Highland Ln,St. Albert,Alberta,E7A 8W6,2,0
+507,Affordable_Housing,884,125 Sharp Hill Ct,New Glasgow,Nova Scotia,E4A 6W9,3,1
+508,Affordable_Housing,715,940 Fox Hill Way,Grande Prairie,Alberta,K3T 5G0,3,0
+509,Affordable_Housing,982,2821 Brentwood Ct,Kentville,Nova Scotia,E5J 6J2,1,1
+510,Market_Rental,13,65 E Deepwood Highway,Kitchener,Ontario,G7Z 8M2,5,0
+511,Hotel,114,3811 Parkwood Drive,St. Albert,Alberta,J5N 5M6,3,0
+512,Hotel,615,19 SW Burwood Circle,Kelowna,British Columbia,H9L 8L0,1,0
+513,Social_Housing,885,23 White Riddle Hill Way,Gatineau,Quebec,G3K 5K5,1,0
+514,Social_Housing,569,2466 Hidden Deepwood Road,Montreal,Quebec,A4S 2Z7,4,0
+515,Social_Housing,14,1754 Social Hwy,Kelowna,British Columbia,B4Z 3E3,2,1
+516,Affordable_Housing,716,3273 Edgewood Circle,Victoria,British Columbia,P4C 2W9,4,0
+517,Social_Housing,469,3417 East Riddle Hill Lane,Airdrie,Alberta,C0C 2T0,5,0
+518,Affordable_Housing,616,1581 Woodland Blvd,Kentville,Nova Scotia,Y0W 4G5,2,0
+519,Affordable_Housing,313,3327 New Mount Hwy,Lethbridge,Alberta,G5X 1E6,4,0
+520,Market_Rental,717,3681 West Ashwood Blvd,Cornwall,Prince Edward Island,E0X 2M0,1,0
+521,Hotel,115,1578 E Quailwood Circle,Yellowknife,Northwest Territories,M6Y 9P9,2,0
+522,Social_Housing,617,70 South Deepwood Lane,Lethbridge,Alberta,V2V 6L4,1,0
+523,Hotel,213,319 SE Farmview Loop,Cambridge Bay,Nunavut,S7Z 9P2,1,1
+524,Market_Rental,570,3875 Rose Hill Blvd,Fort Smith,Northwest Territories,L5C 0R4,3,0
+525,Market_Rental,470,2795 Oak Loop,Vancouver,British Columbia,M0P 5X8,2,0
+526,Affordable_Housing,718,83 S Hope Hwy,Airdrie,Alberta,P0C 1N6,1,0
+527,Hotel,618,582 Highland Court,Yorkton,Saskatchewan,T9M 7A7,3,0
+528,Social_Housing,719,228 Mount Cir,Whitehorse,Yukon Territory,N6W 6G6,4,1
+529,Market_Rental,15,2853 SW Front St,London,Ontario,J2B 3A6,5,0
+530,Affordable_Housing,116,3206 Buttonwood Highway,Gatineau,Quebec,A0J 6G6,5,0
+531,Market_Rental,983,72 South Chapel Hill Way,Estevan,Saskatchewan,J6S 8W1,4,0
+532,Market_Rental,16,773 Lake Loop,Brampton,Ontario,K2M 0C1,5,1
+533,Hotel,571,991 Stonewood Ln,Kitchener,Ontario,V8R 7S9,5,0
+534,Social_Housing,619,3202 Red Lake Pkwy,Winnipeg,Manitoba,H9Y 7T7,1,0
+535,Market_Rental,720,3607 Highland Way,Dawson City,Yukon Territory,H6R 1W5,5,0
+536,Affordable_Housing,314,495 White Riverview Road,Victoria,British Columbia,H7P 1S2,1,0
+537,Hotel,117,3736 N Quailwood St,Whitehorse,Yukon Territory,X2M 9E7,3,1
+538,Market_Rental,886,3133 S Lake Ct,Cornwall,Prince Edward Island,P9E 4E3,2,0
+539,Market_Rental,984,14 White Woodside Ave,Estevan,Saskatchewan,C7N 6Y6,4,0
+540,Affordable_Housing,471,95 Hunting Hill Road,Windsor,Ontario,E6Y 9L1,5,0
+541,Hotel,17,2272 SW Bayview Highway,Kugluktuk,Nunavut,K7T 1G6,3,0
+542,Hotel,214,2186 Front Blvd,Longueuil,Quebec,J3P 4W4,4,0
+543,Affordable_Housing,572,352 NE Church Parkway,Cambridge Bay,Nunavut,M8E 5H3,2,0
+544,Social_Housing,887,2275 Prospect Hill Parkway,Ottawa,Ontario,K5H 5V7,4,0
+545,Market_Rental,985,21 E Hunting Hill Blvd,Fort Smith,Northwest Territories,M9C 8E3,1,0
+546,Hotel,888,936 SW Front Ln,Brampton,Ontario,A7Y 5J8,4,0
+547,Social_Housing,620,1505 8th Blvd,Saint John,New Brunswick,Y1V 9A1,4,0
+548,Affordable_Housing,315,810 East Deepwood Parkway,Toronto,Ontario,X3N 0T5,2,0
+549,Affordable_Housing,986,42 NE Chapel Hill Loop,New Glasgow,Nova Scotia,L5N 2Y2,1,1
+550,Affordable_Housing,472,3352 Woodrow Avenue,Teslin,Yukon Territory,E0S 4E6,5,0
+551,Social_Housing,721,1447 Hidden Ski Hill Rd,Cornwall,Prince Edward Island,E4Z 4B1,5,0
+552,Affordable_Housing,118,3079 Riverview Blvd,Charlottetown,Prince Edward Island,G8L 4E1,2,0
+553,Affordable_Housing,621,2890 Old Stonewood Lane,Montreal,Quebec,J5P 9Z6,4,0
+554,Social_Housing,573,615 White Town Blvd,Labrador City,Newfoundland and Labrador,H4K 2E7,5,0
+555,Affordable_Housing,473,3586 Brentwood Blvd,Saint John,New Brunswick,S0T 6A3,1,1
+556,Social_Housing,215,143 South Monument Parkway,Kensington,Prince Edward Island,V5B 4V3,1,0
+557,Affordable_Housing,18,3973 Hidden Woodhurst Blvd,Burnaby,British Columbia,X8E 1J7,4,1
+558,Affordable_Housing,722,1023 SW Quailwood Loop,Mount Pearl,Newfoundland and Labrador,C6A 2K2,1,0
+559,Social_Housing,574,93 Prospect Hill Lane,Yorkton,Saskatchewan,M3S 4R2,5,0
+560,Social_Housing,622,630 Lake Hwy,Kensington,Prince Edward Island,B5J 3Y0,4,0
+561,Hotel,889,929 E Rock Hill Drive,Yarmouth,Nova Scotia,R7T 9H6,5,1
+562,Social_Housing,119,2472 North Front Highway,Victoria,British Columbia,K8R 1N7,1,1
+563,Shelter,474,1558 Ski Hill Way,Windsor,Ontario,K2N 7Z2,5,1
+564,Market_Rental,723,281 Hazelwood Loop,Charlottetown,Prince Edward Island,T9Z 7X0,3,0
+565,Market_Rental,316,898 Old Stonewood Blvd,Dawson City,Yukon Territory,E0P 6G4,1,0
+566,Market_Rental,987,276 NW Church Ln,Montreal,Quebec,S0B 7N6,5,0
+567,Social_Housing,19,1198 Oak Lane,Saskatoon,Saskatchewan,G9X 0N5,1,0
+568,Social_Housing,216,3919 South Fox Hill Lane,Bathurst,New Brunswick,C7E 9M7,3,0
+569,Social_Housing,623,3214 Farmview Blvd,Yellowknife,Northwest Territories,C7H 4L6,2,0
+570,Affordable_Housing,890,2949 Burwood Way,Bathurst,New Brunswick,N6Y 6A8,5,1
+571,Shelter,575,10 N Monument Drive,Cambridge Bay,Nunavut,K3M 8E6,5,1
+572,Social_Housing,475,2393 SE Beachwood Lane,Fredericton,New Brunswick,N7T 3N3,5,0
+573,Hotel,724,36 Stonewood Cir,Steinbach,Manitoba,Y1X 7J7,4,1
+574,Market_Rental,624,986 SE Stonewood Way,Estevan,Saskatchewan,C4S 6X6,5,0
+575,Social_Housing,576,3802 Monument Way,Fort Smith,Northwest Territories,L0G 9M1,2,1
+576,Social_Housing,988,33 East Quailwood Drive,Gatineau,Quebec,M4M 7M0,4,1
+577,Market_Rental,120,616 New Town Drive,Estevan,Saskatchewan,N0V 8L1,5,0
+578,Affordable_Housing,317,765 West Fox Hill Avenue,Richmond,British Columbia,G0E 4L6,4,0
+579,Market_Rental,476,3625 South Mountain Ct,Moncton,New Brunswick,T3V 0J7,4,1
+580,Social_Housing,577,2169 Ironwood Lane,Winnipeg,Manitoba,N7W 6G9,5,0
+581,Affordable_Housing,20,2471 2nd Dr,Trois-Rivieres,Quebec,H2G 9B0,1,0
+582,Affordable_Housing,217,853 Old Market Lane,Brampton,Ontario,L0W 2P5,5,0
+583,Market_Rental,725,57 Old Ski Hill Ct,Yellowknife,Northwest Territories,K9B 0G0,1,1
+584,Affordable_Housing,477,2080 E Mount Rd,Edmonton,Alberta,R6J 9C0,1,1
+585,Affordable_Housing,318,2703 NE Rushwood Ln,Victoria,British Columbia,B0Y 8Y8,5,1
+586,Affordable_Housing,625,2255 SE Rose Hill Court,Richmond,British Columbia,M4B 9E4,4,0
+587,Affordable_Housing,218,517 Church Ct,Regina,Saskatchewan,V4H 3L2,5,0
+588,Shelter,891,136 Mount Highway,Brampton,Ontario,L0Y 3T2,2,0
+589,Affordable_Housing,319,1467 Pine Tree Court,Cornwall,Prince Edward Island,K2Y 5E8,2,1
+590,Market_Rental,578,399 Old Prospect Hill Cir,Kensington,Prince Edward Island,M5Z 1J6,3,0
+591,Social_Housing,219,73 East Flintwood Ln,Brampton,Ontario,X6C 3Y8,3,0
+592,Social_Housing,478,388 1st Lane,Calgary,Alberta,M3B 4X2,3,0
+593,Shelter,579,475 White Social Ct,Windsor,Ontario,P1G 0E3,3,0
+594,Hotel,320,3319 White Church Parkway,Regina,Saskatchewan,N2K 7W0,2,0
+595,Hotel,726,462 West Beachwood Hwy,Iqaluit,Nunavut,P3A 9Z4,5,0
+596,Shelter,989,1576 Riverview Ln,Brandon,Manitoba,K7W 1J3,1,0
+597,Social_Housing,626,878 W Mount Road,Lethbridge,Alberta,L5Z 0H4,5,0
+598,Affordable_Housing,727,14 Brentwood Highway,Mount Pearl,Newfoundland and Labrador,G5B 5C3,1,0
+599,Social_Housing,627,94 SW Lake Blvd,Kitchener,Ontario,N8X 3A3,5,0
+600,Market_Rental,121,28 Red Oak Highway,Windsor,Ontario,H2J 5K6,2,1
+601,Hotel,728,715 Parkwood Pkwy,Grande Prairie,Alberta,A5R 2A9,5,0
+602,Market_Rental,479,851 North Chapel Hill Avenue,Lethbridge,Alberta,H3Y 5K2,2,1
+603,Social_Housing,628,898 1st Rd,Regina,Saskatchewan,N6L 8S9,2,0
+604,Market_Rental,21,2568 N Riddle Hill Ct,Winkler,Manitoba,C2P 7A6,5,0
+605,Hotel,122,3508 Old Mountain Ct,Mississauga,Ontario,Y1V 4Y6,1,1
+606,Market_Rental,220,3977 N Hazelwood Pkwy,Kentville,Nova Scotia,P0R 7S6,3,1
+607,Shelter,321,69 Burwood Way,Lethbridge,Alberta,M2P 1H3,3,0
+608,Shelter,22,3047 East Church Lane,Whitehorse,Yukon Territory,T6G 0B4,5,0
+609,Market_Rental,123,113 Hidden Prospect Hill Way,Yarmouth,Nova Scotia,X9V 8H9,3,0
+610,Affordable_Housing,580,990 Front Ct,Iqaluit,Nunavut,S7E 5Y8,2,1
+611,Social_Housing,23,3852 Town Pkwy,London,Ontario,K1P 9M3,2,0
+612,Market_Rental,729,1734 NE Oak Avenue,Yarmouth,Nova Scotia,M9K 7W0,1,0
+613,Affordable_Housing,124,3328 Prospect Hill Ln,Kensington,Prince Edward Island,A8Y 8E5,5,0
+614,Social_Housing,892,3473 Bayview Ln,Edmonton,Alberta,E2H 5S0,1,0
+615,Affordable_Housing,629,1977 Church Parkway,Airdrie,Alberta,K4J 1V8,1,0
+616,Affordable_Housing,480,1989 White Market Loop,Fort Smith,Northwest Territories,X6R 7T6,4,0
+617,Affordable_Housing,581,11 Market Parkway,Mississauga,Ontario,M9E 7J5,3,1
+618,Social_Housing,24,68 NE Chapel Hill Circle,Toronto,Ontario,M9N 7B2,2,1
+619,Affordable_Housing,221,557 Church Blvd,Kelowna,British Columbia,L2M 5A8,4,1
+620,Affordable_Housing,481,245 Waterview Ln,Bathurst,New Brunswick,L1S 0B0,2,0
+621,Affordable_Housing,582,62 Riverside Avenue,Kugluktuk,Nunavut,A4J 6J8,3,1
+622,Affordable_Housing,322,35 SW Meadowview Street,Cornwall,Prince Edward Island,N3A 7A8,1,0
+623,Hotel,990,3280 White Stonewood Hwy,Lethbridge,Alberta,C4J 7G9,5,0
+624,Affordable_Housing,222,2412 Red Monument Cir,Teslin,Yukon Territory,S1Y 1X3,1,0
+625,Social_Housing,730,76 South Burwood Court,Winnipeg,Manitoba,B3H 2L4,1,0
+626,Affordable_Housing,893,305 North Pine Tree Parkway,Grande Prairie,Alberta,K0T 6T3,1,0
+627,Affordable_Housing,125,1577 S Prospect Hill Blvd,St. Albert,Alberta,C7L 6E9,5,1
+628,Market_Rental,482,153 Riddle Hill Ln,Bathurst,New Brunswick,C7K 0A9,4,0
+629,Social_Housing,991,2739 Old Fox Hill Street,Ottawa,Ontario,T5E 1M3,5,0
+630,Affordable_Housing,583,104 North Prospect Hill Blvd,Dawson City,Yukon Territory,Y1Z 6A7,2,0
+631,Social_Housing,323,743 Front Cir,Kentville,Nova Scotia,K5A 4T1,2,0
+632,Affordable_Housing,483,689 Mount Highway,Saskatoon,Saskatchewan,V1L 5L4,1,0
+633,Social_Housing,630,1821 East Parkwood Parkway,Kelowna,British Columbia,H6T 5M4,4,0
+634,Social_Housing,584,1153 E Burwood Road,Fort Simpson,Northwest Territories,B7J 7R3,4,1
+635,Affordable_Housing,894,564 5th Highway,Springfield,Manitoba,B9L 3G4,3,1
+636,Shelter,731,72 N Highland Lane,Kugluktuk,Nunavut,K0Y 2G5,1,0
+637,Social_Housing,631,128 Glenwood St,Montreal,Quebec,B1S 5A0,3,0
+638,Market_Rental,484,1913 Riddle Hill Avenue,Sherbrooke,Quebec,S7B 0J6,4,1
+639,Shelter,585,835 Sharp Hill Hwy,Calgary,Alberta,M1P 6A0,4,1
+640,Shelter,25,1452 Prospect Hill Highway,Stephenville,Newfoundland and Labrador,A7G 1K0,4,1
+641,Market_Rental,485,1925 Rockwood Loop,Vancouver,British Columbia,V2M 9Z2,2,0
+642,Market_Rental,223,288 New Burwood Way,Stephenville,Newfoundland and Labrador,M5P 1P9,3,0
+643,Shelter,992,2745 E Rockwood Court,Yellowknife,Northwest Territories,E8B 9R8,2,1
+644,Social_Housing,732,46 Red Meadowview Avenue,Halifax,Nova Scotia,X5H 6G8,2,1
+645,Hotel,324,3403 Brentwood Lane,Yellowknife,Northwest Territories,A5Y 7K0,1,0
+646,Affordable_Housing,586,1117 Town Lane,Trois-Rivieres,Quebec,E8T 3V6,3,0
+647,Hotel,486,3416 White Deepwood Loop,Drummondville,Quebec,X5X 9A8,2,1
+648,Affordable_Housing,587,18 Mountain Ln,Brampton,Ontario,R8T 2P8,3,0
+649,Social_Housing,632,694 Old Deepwood Ct,Fredericton,New Brunswick,B2V 8E8,3,0
+650,Affordable_Housing,224,1572 West Rushwood Rd,Steinbach,Manitoba,A8G 0E6,5,0
+651,Social_Housing,487,3433 Red Rock Hill Lane,Labrador City,Newfoundland and Labrador,V6J 8M0,4,0
+652,Market_Rental,733,628 Riddle Hill Circle,Brandon,Manitoba,L7B 3Z0,2,0
+653,Social_Housing,325,67 Fox Hill Hwy,Montreal,Quebec,T1N 4X5,1,0
+654,Hotel,126,920 Glenwood Parkway,Yorkton,Saskatchewan,N0S 1A5,5,0
+655,Affordable_Housing,588,2156 SW Glenwood Court,Stephenville,Newfoundland and Labrador,P1M 9W6,4,0
+656,Social_Housing,488,17 Fox Hill Pkwy,Longueuil,Quebec,N4H 4C1,2,0
+657,Social_Housing,589,304 New Town Avenue,Warman,Saskatchewan,J9T 6B4,3,0
+658,Shelter,225,2405 Rock Hill Ln,Richmond,British Columbia,R9Y 5E3,5,0
+659,Hotel,489,608 Ironwood Ave,Bathurst,New Brunswick,H5J 1R8,3,0
+660,Affordable_Housing,26,1150 Lake Pkwy,Springfield,Manitoba,K9E 1V4,5,0
+661,Affordable_Housing,326,62 NE Rockwood Pkwy,Victoria,British Columbia,B4V 5P6,3,0
+662,Hotel,895,1247 Hunting Hill Circle,Estevan,Saskatchewan,K0K 2T5,5,0
+663,Affordable_Housing,127,759 Beachwood Pkwy,Red Deer,Alberta,V8C 7E5,5,0
+664,Affordable_Housing,590,230 Deepwood Circle,London,Ontario,K4Y 8S9,4,1
+665,Affordable_Housing,27,359 Old Buttonwood Dr,Kamloops,British Columbia,B2R 0E3,2,0
+666,Hotel,633,2592 Red Ashwood St,Victoria,British Columbia,T0V 3P5,5,0
+667,Hotel,128,727 Mount Rd,Cambridge Bay,Nunavut,B8X 3X3,3,0
+668,Affordable_Housing,490,754 Glenwood Hwy,Trois-Rivieres,Quebec,J0P 4L5,2,0
+669,Market_Rental,28,627 Highland Way,Victoria,British Columbia,T8H 4V8,2,0
+670,Market_Rental,993,2739 Hunting Hill Parkway,Gatineau,Quebec,V2X 6Z9,5,0
+671,Social_Housing,896,29 Rockwood Loop,Calgary,Alberta,Y3K 3G8,2,0
+672,Affordable_Housing,994,2195 NE Quailwood Ln,Surrey,British Columbia,E0M 1G7,1,0
+673,Shelter,591,328 Ski Hill Circle,Shelburne,Nova Scotia,S6R 5G1,3,1
+674,Hotel,226,43 Mountain Parkway,St. Albert,Alberta,B1M 9G1,1,1
+675,Hotel,129,2068 Old Woodhurst Highway,Longueuil,Quebec,H3V 6J2,4,0
+676,Hotel,327,537 SW Ironwood Dr,Longueuil,Quebec,H8H 0L0,2,0
+677,Market_Rental,491,1597 Ski Hill Circle,Saint John,New Brunswick,C2R 0H0,2,0
+678,Shelter,227,1450 White Riddle Hill Parkway,Kitchener,Ontario,K8C 6E6,4,0
+679,Hotel,29,723 NW Rockwood Loop,Sherbrooke,Quebec,B9S 0A0,1,0
+680,Market_Rental,130,2493 Brentwood Court,Ottawa,Ontario,N9H 5C4,3,0
+681,Hotel,592,3959 Meadowview Ct,Mississauga,Ontario,M8H 2V9,3,0
+682,Social_Housing,492,1832 E Flintwood Street,Trois-Rivieres,Quebec,C5H 6W8,4,0
+683,Hotel,734,14 South Church Ct,Red Deer,Alberta,T0M 7L5,5,0
+684,Hotel,634,3607 New Edgewood Dr,Drummondville,Quebec,S9Y 5R0,3,0
+685,Social_Housing,30,259 NE Edgewood Pkwy,Kamloops,British Columbia,Y4E 0E0,1,0
+686,Social_Housing,735,210 Buttonwood Lane,Lethbridge,Alberta,Y0S 3G7,4,0
+687,Affordable_Housing,131,3535 SE Farmview Road,Brampton,Ontario,K8H 9C1,5,0
+688,Affordable_Housing,593,75 Hidden Rushwood Dr,Saskatoon,Saskatchewan,B8T 9P2,4,0
+689,Affordable_Housing,31,1259 Edgewood St,St. Albert,Alberta,R6V 1R1,5,0
+690,Social_Housing,328,322 Sharp Hill Loop,Kitchener,Ontario,P0Y 3A5,4,0
+691,Affordable_Housing,132,379 Farmview Lane,Montreal,Quebec,G0C 3R6,2,0
+692,Hotel,228,57 Town Hwy,Halifax,Nova Scotia,A0W 7X7,2,1
+693,Social_Housing,32,20 Deepwood St,Kentville,Nova Scotia,E3M 1J8,2,0
+694,Social_Housing,493,3529 Ashwood Dr,Edmonton,Alberta,L4J 9W6,2,0
+695,Social_Housing,897,153 Cedar Tree Parkway,Dawson City,Yukon Territory,B3X 1L0,5,1
+696,Social_Housing,594,1396 N Bayview Lane,Grande Prairie,Alberta,V8Y 9C3,4,0
+697,Social_Housing,329,38 Lake Ave,Montreal,Quebec,H5E 7R8,4,0
+698,Social_Housing,229,1272 West Glenwood Rd,Sherbrooke,Quebec,E8K 0Z1,4,1
+699,Shelter,494,321 Ashwood Highway,Whitehorse,Yukon Territory,N5N 5W8,2,0
+700,Market_Rental,595,1312 48th Drive,Richmond,British Columbia,V7X 8A5,2,0
+701,Hotel,495,1971 E Woodfort Ct,Trois-Rivieres,Quebec,H3M 7M1,5,0
+702,Social_Housing,995,2056 North Hope Ave,Winkler,Manitoba,M2M 5J1,2,0
+703,Affordable_Housing,596,73 N Riverside Hwy,Toronto,Ontario,C3K 7E6,2,1
+704,Affordable_Housing,635,394 Meadowview Loop,London,Ontario,M0X 3X6,1,0
+705,Social_Housing,330,75 North Stonewood Loop,Drummondville,Quebec,A1K 5L0,3,1
+706,Hotel,736,392 New Deepwood Pkwy,Kelowna,British Columbia,H9S 1Z8,3,0
+707,Social_Housing,133,3463 E Mountain Blvd,Winkler,Manitoba,L2L 1K7,1,0
+708,Social_Housing,33,3350 Red Hazelwood Avenue,Fort Smith,Northwest Territories,B3W 5A0,4,1
+709,Social_Housing,134,31 Red Brentwood Ave,Gatineau,Quebec,Y9R 8L0,3,1
+710,Market_Rental,230,3823 E Meadowview Ct,London,Ontario,K6A 3P4,4,0
+711,Affordable_Housing,34,2081 Ashwood Highway,Grande Prairie,Alberta,L4B 9M3,4,0
+712,Affordable_Housing,331,1883 White Buttonwood Hwy,Calgary,Alberta,K1L 8A6,2,0
+713,Market_Rental,231,3581 Old Mount Rd,Fredericton,New Brunswick,C1W 6C9,2,0
+714,Market_Rental,332,1301 W Mount Highway,Drummondville,Quebec,Y6J 6Z3,4,0
+715,Hotel,636,964 Town Avenue,Labrador City,Newfoundland and Labrador,L5A 9T4,1,0
+716,Affordable_Housing,737,3364 Rockwood Loop,Saskatoon,Saskatchewan,A7V 9C8,4,0
+717,Market_Rental,135,485 Farmview Road,Dawson City,Yukon Territory,S8K 7Z0,3,1
+718,Hotel,496,699 Cedar Tree Way,Cornwall,Prince Edward Island,E7A 5X5,4,0
+719,Social_Housing,597,2109 2nd Hwy,Cambridge Bay,Nunavut,H3N 5L9,4,0
+720,Social_Housing,497,3285 Front Parkway,Saint John,New Brunswick,M2C 5L0,2,0
+721,Affordable_Housing,637,360 1st Circle,Trois-Rivieres,Quebec,E3X 4J8,4,0
+722,Social_Housing,598,3976 Riverside Hwy,Mount Pearl,Newfoundland and Labrador,E6Y 3R2,5,0
+723,Social_Housing,498,3269 NW Riddle Hill Lane,Airdrie,Alberta,C2H 2R4,5,0
+724,Hotel,738,417 Red Mountain Street,Windsor,Ontario,K8W 5P2,1,0
+725,Affordable_Housing,898,737 Cedar Tree Way,Labrador City,Newfoundland and Labrador,H6J 4P3,3,0
+726,Affordable_Housing,638,3095 Monument Parkway,Longueuil,Quebec,C8T 9K6,2,0
+727,Affordable_Housing,739,3713 Hidden Deepwood Parkway,Winnipeg,Manitoba,R4A 8B4,3,0
+728,Affordable_Housing,996,1360 Red Farmview Blvd,Brandon,Manitoba,N6B 6G9,2,0
+729,Shelter,599,486 SW Riddle Hill Cir,Brandon,Manitoba,A7A 6T6,5,1
+730,Affordable_Housing,499,2578 Highland Pkwy,Moncton,New Brunswick,S6L 7E7,5,0
+731,Affordable_Housing,35,3590 Mountain Blvd,Ottawa,Ontario,X2G 9C0,2,1
+732,Hotel,136,1054 Mountain Ln,Mississauga,Ontario,S1M 0L7,1,1
+733,Social_Housing,639,36 Town Circle,Surrey,British Columbia,J4S 4S7,2,1
+734,Hotel,600,1346 West Fox Hill Loop,Stephenville,Newfoundland and Labrador,P4S 5Y5,1,0
+735,Social_Housing,500,76 SW Ashwood Cir,Airdrie,Alberta,B6K 0B1,4,1
+736,Affordable_Housing,601,1952 Fox Hill Ct,Yarmouth,Nova Scotia,P2S 0S5,2,0
+737,Shelter,36,23 West Market Rd,Calgary,Alberta,V9A 2V9,2,1
+738,Affordable_Housing,137,1354 Highland Loop,Trois-Rivieres,Quebec,H4L 7B1,2,0
+739,Affordable_Housing,232,75 S Meadowview Street,Kitchener,Ontario,H4E 0G4,3,0
+740,Affordable_Housing,333,2532 Hunting Hill Blvd,Winkler,Manitoba,G8L 5E8,3,0
+741,Social_Housing,501,617 Pine Tree Cir,Longueuil,Quebec,H2B 5T9,5,0
+742,Social_Housing,899,3616 Glenwood Road,Sherbrooke,Quebec,C3J 8K8,1,0
+743,Social_Housing,602,1600 North Cedar Tree Way,Surrey,British Columbia,K7M 9K7,2,0
+744,Hotel,997,3397 Old Fox Hill Circle,Vancouver,British Columbia,G0W 5G0,5,0
+745,Market_Rental,233,555 SW Fox Hill Dr,New Glasgow,Nova Scotia,V8B 3T1,1,0
+746,Market_Rental,900,735 West Riverview Ln,Saint John,New Brunswick,Y3Z 1X5,4,0
+747,Market_Rental,37,1948 North Rockwood Ct,Yarmouth,Nova Scotia,E2Y 8E0,4,1
+748,Social_Housing,998,1911 Quailwood Ln,Kugluktuk,Nunavut,H8Z 6B5,1,1
+749,Affordable_Housing,901,1582 Old Woodland Loop,Kensington,Prince Edward Island,A7S 0Z9,2,0
+750,Hotel,138,2763 SW Church Street,Vancouver,British Columbia,K0L 8Y0,2,0
+751,Social_Housing,502,1771 E Beachwood Blvd,Brampton,Ontario,C7L 5T4,3,0
+752,Affordable_Housing,740,1211 Ski Hill Pkwy,Airdrie,Alberta,R7G 6H0,2,0
+753,Market_Rental,999,1437 North Lake Way,Whitehorse,Yukon Territory,R1M 3T3,4,0
+754,Social_Housing,38,1261 SE Farmview Parkway,Fort Smith,Northwest Territories,M5T 2A7,1,0
+755,Affordable_Housing,902,24 Buttonwood St,Kitchener,Ontario,T8X 5B7,2,1
+756,Affordable_Housing,139,732 Brentwood Ct,Saint John,New Brunswick,N8B 7A4,2,0
+757,Social_Housing,603,83 Ashwood Dr,Kensington,Prince Edward Island,G3L 6J3,5,0
+758,Market_Rental,640,859 Quailwood Blvd,Dawson City,Yukon Territory,G3Y 0L5,4,0
+759,Market_Rental,805,1277 New Meadowview Avenue,Calgary,Alberta,P3J 3L2,3,0
+760,Market_Rental,741,803 Quailwood Ct,Montreal,Quebec,C7K 5T1,4,0
+761,Affordable_Housing,903,1160 Buttonwood Way,Springfield,Manitoba,M3M 7R0,3,1
+762,Market_Rental,39,246 Hidden Front Ln,Brampton,Ontario,B4L 8P9,4,1
+763,Hotel,503,702 Hidden Riverview Parkway,Airdrie,Alberta,V5H 7J1,1,1
+764,Shelter,403,585 S Pine Tree Circle,Fredericton,New Brunswick,K6M 7H0,3,0
+765,Affordable_Housing,140,1432 W Meadowview Loop,Whitehorse,Yukon Territory,K7C 4L0,3,0
+766,Shelter,40,3625 W Burwood Lane,Winkler,Manitoba,V4Y 8L9,2,0
+767,Affordable_Housing,641,741 Parkwood Ct,Kentville,Nova Scotia,H4Y 0Y0,5,0
+768,Social_Housing,742,856 North Hunting Hill Ct,Saskatoon,Saskatchewan,L6E 2L8,5,0
+769,Market_Rental,642,2907 SE Rockwood Pkwy,Edmonton,Alberta,V5Y 2P6,1,0
+770,Social_Housing,141,572 Social Blvd,Whitehorse,Yukon Territory,K8L 0C2,2,1
+771,Hotel,743,3483 New Ski Hill Ave,Fort Simpson,Northwest Territories,C1A 7J8,3,0
+772,Affordable_Housing,806,86 Farmview Ln,Charlottetown,Prince Edward Island,A3C 9C9,3,0
+773,Affordable_Housing,41,3724 West Prospect Hill Ct,Springfield,Manitoba,S0H 7L8,5,0
+774,Market_Rental,142,1875 NE Rock Hill Way,Mississauga,Ontario,K6B 9P8,3,0
+775,Social_Housing,904,17 White Bayview Lane,Cornwall,Prince Edward Island,C2K 7K1,3,1
+776,Social_Housing,643,2979 Red Pine Tree Road,Stephenville,Newfoundland and Labrador,S5N 9Y8,1,0
+777,Social_Housing,42,662 Prospect Hill Highway,Cambridge Bay,Nunavut,K4E 3J6,3,0
+778,Affordable_Housing,744,2509 NW Social Blvd,Moncton,New Brunswick,Y6Z 3N5,1,0
+779,Market_Rental,504,2769 Flintwood Loop,St. Albert,Alberta,B8Y 5T4,1,0
+780,Affordable_Housing,807,3353 Glenwood Blvd,Fort Smith,Northwest Territories,C1G 6L0,4,1
+781,Affordable_Housing,404,3063 E Mountain Street,Drummondville,Quebec,H5S 6K9,2,0
+782,Social_Housing,905,35 SW Monument Hwy,Mississauga,Ontario,J7N 5R1,2,1
+783,Market_Rental,143,3138 Hope Lane,Cambridge Bay,Nunavut,E6Y 7G1,1,0
+784,Market_Rental,505,47 Riddle Hill Avenue,Iqaluit,Nunavut,K3S 1B6,3,0
+785,Social_Housing,43,2991 Glenwood Parkway,Regina,Saskatchewan,E4K 4A4,1,0
+786,Market_Rental,334,10 Rushwood Ave,Kensington,Prince Edward Island,E7G 9R9,5,0
+787,Market_Rental,144,3666 South Rushwood Ln,St. Albert,Alberta,R9H 0G9,2,0
+788,Hotel,405,3974 Red Fox Hill Street,Brandon,Manitoba,L8S 8G2,1,1
+789,Social_Housing,644,869 Red Lake Dr,Vancouver,British Columbia,G5N 8Z0,3,0
+790,Hotel,506,490 White Edgewood Street,Longueuil,Quebec,N3Y 7N7,5,0
+791,Affordable_Housing,44,18 Ironwood Way,Airdrie,Alberta,L4L 3B1,1,0
+792,Hotel,234,14 South Ironwood Hwy,London,Ontario,L7E 7R4,5,0
+793,Affordable_Housing,335,32 North Rose Hill Blvd,Estevan,Saskatchewan,E2V 5E5,2,0
+794,Affordable_Housing,406,3655 Old Flintwood Circle,Warman,Saskatchewan,S9S 2T6,2,1
+795,Social_Housing,507,2691 NE Town Drive,New Glasgow,Nova Scotia,B6Z 8S5,5,0
+796,Social_Housing,235,81 Hidden Glenwood Pkwy,Surrey,British Columbia,V9S 0K9,1,0
+797,Affordable_Housing,407,3497 Deepwood Parkway,Mount Pearl,Newfoundland and Labrador,C4V 6H6,5,0
+798,Hotel,808,3755 3rd Ln,Richmond,British Columbia,M3M 9A8,4,0
+799,Social_Housing,745,1171 Sharp Hill Pkwy,London,Ontario,P4P 4B8,5,0
+800,Social_Housing,336,567 NE Oak Drive,Fort Smith,Northwest Territories,S8Y 7B7,1,1
+801,Affordable_Housing,236,697 North Hazelwood Highway,Toronto,Ontario,T4X 3C0,4,0
+802,Market_Rental,337,31 W Parkwood Rd,Kitchener,Ontario,G3H 7K4,3,0
+803,Affordable_Housing,145,3896 Flintwood Dr,Burnaby,British Columbia,G5Z 9Y7,3,0
+804,Affordable_Housing,645,354 Town Ct,Steinbach,Manitoba,J2J 8B4,4,0
+805,Social_Housing,237,44 Edgewood Dr,Winkler,Manitoba,X5S 0J9,5,0
+806,Hotel,508,138 Brentwood Lane,Cornwall,Prince Edward Island,A7B 2G5,4,1
+807,Social_Housing,408,255 S Riverside Blvd,Grande Prairie,Alberta,A9S 1P1,3,1
+808,Market_Rental,906,3291 West Rock Hill Loop,Surrey,British Columbia,V7J 2N4,3,0
+809,Social_Housing,338,115 Edgewood Ln,Shelburne,Nova Scotia,C5A 8M0,4,0
+810,Social_Housing,238,493 Quailwood Parkway,Kugluktuk,Nunavut,A3S 7P5,3,0
+811,Affordable_Housing,809,353 Ski Hill Street,Yorkton,Saskatchewan,H5K 9M6,5,0
+812,Hotel,746,150 Fox Hill Parkway,Yellowknife,Northwest Territories,B5V 2T4,5,0
+813,Market_Rental,339,2717 W Waterview Highway,Saskatoon,Saskatchewan,E2K 9H5,5,0
+814,Affordable_Housing,907,3767 Riddle Hill Hwy,Lethbridge,Alberta,T2G 6J7,1,0
+815,Affordable_Housing,45,45 North Brentwood Street,Richmond,British Columbia,T6J 5M3,4,0
+816,Social_Housing,146,3690 Hidden Edgewood Dr,Mississauga,Ontario,H4M 5L5,5,0
+817,Market_Rental,46,219 East Chapel Hill Drive,Warman,Saskatchewan,E9H 2A2,1,0
+818,Market_Rental,147,503 Bayview Lane,Kamloops,British Columbia,M0H 5E8,3,0
+819,Affordable_Housing,509,382 Red Market Pkwy,Kitchener,Ontario,G6J 4E8,1,0
+820,Shelter,810,256 Chapel Hill Ct,Dawson City,Yukon Territory,X1A 8X6,2,0
+821,Hotel,908,1853 Rose Hill Lane,Kamloops,British Columbia,K6W 4R2,1,1
+822,Hotel,47,2367 West Rock Hill Pkwy,Drummondville,Quebec,M3P 9K6,1,0
+823,Market_Rental,148,2683 1st Ct,Kelowna,British Columbia,R7P 0J1,1,0
+824,Social_Housing,239,669 SE Mountain Ct,Kelowna,British Columbia,M6A 4V8,4,1
+825,Shelter,48,2463 W Bayview Lane,Teslin,Yukon Territory,G8K 3J7,4,1
+826,Social_Housing,409,358 Quailwood Lane,Gatineau,Quebec,J3S 5N6,2,0
+827,Social_Housing,646,266 Buttonwood Blvd,Kelowna,British Columbia,P5R 4E6,5,0
+828,Market_Rental,747,415 Market Parkway,London,Ontario,M7G 0Z8,3,0
+829,Hotel,647,987 West Waterview Court,Warman,Saskatchewan,B4G 5Z0,4,0
+830,Social_Housing,510,55 New Sharp Hill Cir,Drummondville,Quebec,C7P 2L7,1,0
+831,Market_Rental,340,1580 Mountain Parkway,Mississauga,Ontario,E4M 4M3,5,1
+832,Affordable_Housing,149,720 Red Lake St,St. Albert,Alberta,S7W 8Z0,1,0
+833,Social_Housing,49,2806 E Pine Tree St,Kitchener,Ontario,J7G 4L4,2,0
+834,Shelter,240,446 SE Farmview Avenue,Kugluktuk,Nunavut,J7M 5K3,1,0
+835,Market_Rental,748,1749 Old Rock Hill Blvd,Brampton,Ontario,P2W 5K5,1,0
+836,Hotel,341,3129 Rockwood Ln,Estevan,Saskatchewan,J0Y 9N2,2,0
+837,Market_Rental,811,132 Woodland Avenue,Regina,Saskatchewan,S8L 4W4,5,0
+838,Affordable_Housing,410,134 North Meadowview Ct,Mount Pearl,Newfoundland and Labrador,A0K 4E3,5,1
+839,Market_Rental,150,169 South Beachwood Blvd,Burnaby,British Columbia,L3R 6L5,2,0
+840,Affordable_Housing,511,2363 Pine Tree Parkway,St. Albert,Alberta,A3M 4W5,1,0
+841,Hotel,648,3309 Buttonwood Circle,Kugluktuk,Nunavut,H1K 9Y7,4,1
+842,Market_Rental,241,3246 Farmview Highway,Montreal,Quebec,J1X 4X9,2,1
+843,Hotel,342,94 E Church Ct,Steinbach,Manitoba,S6N 9J7,3,0
+844,Market_Rental,242,3256 White Deepwood Street,Red Deer,Alberta,B7N 7H1,4,0
+845,Social_Housing,749,737 1st Blvd,Red Deer,Alberta,C7K 2N5,1,0
+846,Market_Rental,343,22 Ski Hill Loop,Drummondville,Quebec,C7X 7M0,1,0
+847,Market_Rental,50,1020 West Edgewood Circle,Winnipeg,Manitoba,K9M 4E3,5,0
+848,Market_Rental,243,36 Chapel Hill Ave,Fredericton,New Brunswick,R3J 4C8,2,0
+849,Social_Housing,344,2196 Lake Ave,Toronto,Ontario,M0T 9P0,1,0
+850,Social_Housing,244,71 N Hazelwood Avenue,St. Albert,Alberta,S9T 6Z1,4,1
+851,Social_Housing,345,2927 White Cedar Tree Ln,Whitehorse,Yukon Territory,M8J 5B4,3,0
+852,Affordable_Housing,245,1736 E Highland Ct,Vancouver,British Columbia,X2W 0P1,4,0
+853,Social_Housing,909,615 NE Oak Parkway,Yellowknife,Northwest Territories,H9Y 7T9,2,0
+854,Shelter,346,3099 Glenwood Blvd,Mississauga,Ontario,E1L 5K9,5,0
+855,Affordable_Housing,151,722 White Deepwood Circle,Yorkton,Saskatchewan,H0E 0K7,2,1
+856,Hotel,51,3389 Lake Rd,Whitehorse,Yukon Territory,L6M 6M5,5,1
+857,Market_Rental,812,87 Social Lane,Halifax,Nova Scotia,Y8P 9T4,4,0
+858,Social_Housing,246,516 Riddle Hill Circle,Stephenville,Newfoundland and Labrador,X1N 4Z5,2,0
+859,Hotel,910,2096 White Hope Way,Red Deer,Alberta,K9P 3M1,2,0
+860,Market_Rental,813,2187 Town Avenue,Drummondville,Quebec,X6M 5X6,4,1
+861,Shelter,911,3940 NW Market St,St. Albert,Alberta,X5H 8J8,4,0
+862,Affordable_Housing,152,3884 1st Ln,Iqaluit,Nunavut,K2Y 7M0,1,0
+863,Social_Housing,814,2941 Rose Hill Highway,Saskatoon,Saskatchewan,M0E 5C0,5,0
+864,Social_Housing,52,261 East Lake Pkwy,Labrador City,Newfoundland and Labrador,G9V 4V0,1,0
+865,Affordable_Housing,649,3565 2nd Circle,Airdrie,Alberta,C5A 5E5,5,0
+866,Social_Housing,750,164 Hunting Hill Way,Richmond,British Columbia,B1E 7C1,3,0
+867,Affordable_Housing,912,570 NE Rock Hill Ct,Mississauga,Ontario,M0E 7L1,3,0
+868,Social_Housing,153,73 W Burwood Way,Labrador City,Newfoundland and Labrador,V7N 9C8,4,0
+869,Affordable_Housing,815,684 East Market Blvd,Calgary,Alberta,P1K 0C4,4,0
+870,Hotel,347,2480 New Lake Hwy,Stephenville,Newfoundland and Labrador,T1M 8N4,5,0
+871,Social_Housing,247,3534 Town Highway,Cambridge Bay,Nunavut,Y3Y 3J6,5,0
+872,Affordable_Housing,913,1606 Riddle Hill Cir,Cambridge Bay,Nunavut,X0W 5P0,2,0
+873,Social_Housing,816,642 Ski Hill Cir,Airdrie,Alberta,N2B 1H8,4,0
+874,Market_Rental,53,22 East Hunting Hill Ln,Bathurst,New Brunswick,P4H 5Z8,3,1
+875,Market_Rental,650,2616 Hazelwood Way,Teslin,Yukon Territory,S5E 5M7,2,1
+876,Hotel,914,3520 Deepwood Pkwy,Saskatoon,Saskatchewan,J8N 4Y2,3,1
+877,Social_Housing,817,46 White Ironwood Drive,Yellowknife,Northwest Territories,E5P 5A0,4,0
+878,Market_Rental,751,3258 Stonewood Ct,Lethbridge,Alberta,E2S 0L6,3,0
+879,Market_Rental,915,649 Chapel Hill Rd,Cornwall,Prince Edward Island,G3B 7J9,3,0
+880,Market_Rental,348,420 SW Hazelwood Hwy,Stephenville,Newfoundland and Labrador,K6V 9Y1,3,0
+881,Social_Housing,248,3109 Rushwood Way,Lethbridge,Alberta,J7S 8E0,2,0
+882,Social_Housing,349,2419 Riverview Rd,Warman,Saskatchewan,Y7G 1N8,4,1
+883,Hotel,154,2009 Hunting Hill Highway,Mississauga,Ontario,J3E 1H6,2,0
+884,Hotel,54,28 Cedar Tree Street,Teslin,Yukon Territory,V1G 6N6,3,0
+885,Hotel,818,584 Deepwood Pkwy,Montreal,Quebec,J6E 0C4,2,1
+886,Affordable_Housing,651,1165 Hidden Rockwood Way,New Glasgow,Nova Scotia,V2Y 8T2,2,1
+887,Social_Housing,249,725 North Waterview Way,Brandon,Manitoba,G6X 4N7,4,0
+888,Shelter,916,642 Prospect Hill Lane,Kugluktuk,Nunavut,E0E 0P3,4,0
+889,Social_Housing,752,171 White Ironwood Street,Fort Smith,Northwest Territories,V3C 8X0,2,0
+890,Social_Housing,155,2275 Old Burwood Highway,Drummondville,Quebec,N4G 8V2,5,0
+891,Hotel,55,2945 South Mount Blvd,Bathurst,New Brunswick,C1E 8V0,2,0
+892,Hotel,156,3390 Waterview Blvd,Springfield,Manitoba,T2L 4C3,5,0
+893,Hotel,350,2425 Rushwood Loop,Fort Simpson,Northwest Territories,B0X 3J0,4,0
+894,Market_Rental,652,744 NW Pine Tree Loop,St. Albert,Alberta,P3B 1G5,3,0
+895,Market_Rental,819,2769 NE Front Way,Yellowknife,Northwest Territories,G6G 2K3,2,0
+896,Social_Housing,56,61 Lake Lane,Red Deer,Alberta,A4L 4H5,5,0
+897,Market_Rental,250,1149 Mountain Circle,Fredericton,New Brunswick,S7B 1E9,5,1
+898,Hotel,351,94 Edgewood Circle,Toronto,Ontario,C8B 4S1,5,0
+899,Shelter,917,3075 89th Dr,Charlottetown,Prince Edward Island,K5M 1M4,2,0
+900,Social_Housing,753,847 Woodcock Loop,Springfield,Manitoba,J7J 2Z0,3,1
+901,Social_Housing,157,614 Hazelwood Lane,Charlottetown,Prince Edward Island,C8N 6S6,3,1
+902,Affordable_Housing,57,130 Pine Tree Court,Trois-Rivieres,Quebec,H4H 6A4,1,0
+903,Affordable_Housing,251,3547 Hidden Chapel Hill Rd,Edmonton,Alberta,M9L 4P5,2,0
+904,Affordable_Housing,158,842 White Rushwood Ct,Toronto,Ontario,H2N 8N3,3,0
+905,Market_Rental,820,55 Old Bayview Blvd,Kensington,Prince Edward Island,C9K 3Y6,5,0
+906,Market_Rental,352,925 Ski Hill Parkway,Edmonton,Alberta,V3A 0X6,2,0
+907,Affordable_Housing,653,951 Chapel Hill Street,Ottawa,Ontario,V5A 0L7,2,0
+908,Affordable_Housing,754,265 White Rock Hill Rd,Trois-Rivieres,Quebec,H7Y 6N9,3,0
+909,Shelter,918,2660 Deepwood Avenue,Cornwall,Prince Edward Island,J7N 2C7,3,0
+910,Hotel,58,24 West Hunting Hill Ct,Trois-Rivieres,Quebec,E5R 3M5,3,1
+911,Shelter,252,2094 Red Deepwood Rd,Halifax,Nova Scotia,L9V 8J6,4,0
+912,Social_Housing,159,2008 E Ashwood Road,Springfield,Manitoba,G9E 0P5,1,0
+913,Affordable_Housing,654,3671 W Fox Hill Ln,Fort Smith,Northwest Territories,V3Y 7P4,4,0
+914,Market_Rental,353,1941 Pine Tree Ave,Ottawa,Ontario,E8B 6B8,3,0
+915,Market_Rental,755,3186 West Deepwood Highway,Whitehorse,Yukon Territory,K6S 3E2,5,1
+916,Affordable_Housing,253,149 Pine Tree Ct,Victoria,British Columbia,J3Z 3G3,5,0
+917,Hotel,59,2026 W Glenwood Ln,Red Deer,Alberta,G8M 9X4,2,0
+918,Affordable_Housing,655,684 Old Riddle Hill Way,Saint John,New Brunswick,C9N 9N9,1,1
+919,Social_Housing,160,2011 Red Lake Ave,Springfield,Manitoba,E3V 8K3,2,0
+920,Market_Rental,60,2682 South Beachwood Hwy,Fort Smith,Northwest Territories,E1E 6A4,2,0
+921,Market_Rental,354,3990 Lake Ln,Moncton,New Brunswick,C9G 3A2,4,0
+922,Market_Rental,821,1294 Prospect Hill Highway,Teslin,Yukon Territory,K7L 0H3,5,1
+923,Social_Housing,756,921 North Glenwood Parkway,Regina,Saskatchewan,J7R 3Y7,1,1
+924,Social_Housing,656,1680 E Social Parkway,Springfield,Manitoba,B6G 2B3,5,1
+925,Social_Housing,161,35 E Fox Hill Street,Airdrie,Alberta,K1C 4A3,2,0
+926,Affordable_Housing,254,1244 Hazelwood Dr,Estevan,Saskatchewan,R9K 0P2,4,0
+927,Hotel,757,2254 East Front Circle,Iqaluit,Nunavut,E6A 9T4,2,0
+928,Social_Housing,61,2715 SE Hope Parkway,Whitehorse,Yukon Territory,J7M 8W0,4,0
+929,Market_Rental,162,1801 West Hazelwood Ct,Kamloops,British Columbia,J5A 4H6,4,0
+930,Shelter,355,292 N Prospect Hill Dr,Victoria,British Columbia,L1H 9C0,1,0
+931,Market_Rental,255,18 North Hazelwood Dr,Kensington,Prince Edward Island,M2A 7T8,3,0
+932,Affordable_Housing,356,313 Red Flintwood Parkway,Fort Smith,Northwest Territories,N0S 8G8,4,1
+933,Social_Housing,657,231 New Town Hwy,Gatineau,Quebec,N6H 1R7,2,0
+934,Shelter,62,2415 West Parkwood Dr,Brampton,Ontario,N8T 8B6,4,0
+935,Affordable_Housing,256,2898 SW Mount Lane,Fredericton,New Brunswick,N7W 5X0,5,0
+936,Shelter,919,458 E Riverside Avenue,Trois-Rivieres,Quebec,E3K 0J2,1,0
+937,Shelter,357,3329 Flintwood Ct,Calgary,Alberta,H7R 1J2,2,0
+938,Social_Housing,257,3807 S Oak Ln,Charlottetown,Prince Edward Island,L5A 3Z9,5,1
+939,Market_Rental,822,563 Old Oak Lane,Saskatoon,Saskatchewan,X1G 7P2,3,1
+940,Market_Rental,358,1811 3rd Ct,Calgary,Alberta,H5K 5C0,4,0
+941,Market_Rental,758,712 Social Hwy,Toronto,Ontario,C5J 2L3,4,0
+942,Shelter,258,1016 Old Bayview Parkway,Dawson City,Yukon Territory,L9P 5Y6,1,1
+943,Market_Rental,658,2969 Riverside Cir,Yorkton,Saskatchewan,L3X 1R4,1,0
+944,Affordable_Housing,920,65 West Town Rd,Regina,Saskatchewan,V0H 0M5,4,1
+945,Shelter,823,1099 Burwood Avenue,Warman,Saskatchewan,M9A 6P5,2,0
+946,Shelter,759,1172 Old Town Ct,New Glasgow,Nova Scotia,L5B 5T5,5,0
+947,Affordable_Housing,359,2792 Stonewood Blvd,Calgary,Alberta,T2H 0N8,3,1
+948,Market_Rental,259,3431 North Social Court,Fredericton,New Brunswick,V3L 6E1,4,0
+949,Market_Rental,659,1220 Mount Lane,Calgary,Alberta,M8K 8T5,1,0
+950,Affordable_Housing,360,923 New Beachwood Ave,Charlottetown,Prince Edward Island,E0R 1M2,4,0
+951,Shelter,921,403 Rockwood Ln,Warman,Saskatchewan,X6C 8L7,4,0
+952,Affordable_Housing,260,1931 North Bayview St,Gatineau,Quebec,X9Y 4R4,3,1
+953,Affordable_Housing,824,920 Hope Circle,Red Deer,Alberta,T1P 4P9,5,0
+954,Hotel,361,282 Old Glenwood Hwy,Ottawa,Ontario,Y3C 1L2,2,0
+955,Social_Housing,261,3452 3rd Parkway,Mount Pearl,Newfoundland and Labrador,M8V 1C3,2,0
+956,Affordable_Housing,760,2754 Ashwood St,Charlottetown,Prince Edward Island,C5B 9G5,1,1
+957,Affordable_Housing,922,161 E Social Avenue,Vancouver,British Columbia,P1Z 5P6,5,0
+958,Social_Housing,825,690 Hunting Hill Highway,Steinbach,Manitoba,B6P 3K7,5,0
+959,Social_Housing,660,3922 W Prospect Hill Ln,Steinbach,Manitoba,R8N 2N0,4,0
+960,Affordable_Housing,923,3784 West Parkwood Court,Iqaluit,Nunavut,K2G 6P4,1,0
+961,Social_Housing,761,297 White Hope Blvd,Labrador City,Newfoundland and Labrador,E9H 8V8,2,0
+962,Social_Housing,661,2764 White Buttonwood Way,Dawson City,Yukon Territory,Y5M 2L0,4,0
+963,Affordable_Housing,762,20 66th Lane,Red Deer,Alberta,Y9P 0G5,4,0
+964,Social_Housing,826,764 Rushwood Blvd,Gatineau,Quebec,P5K 2Y8,2,0
+965,Hotel,924,2348 SE Highland Hwy,Red Deer,Alberta,G4J 1K1,5,0
+966,Social_Housing,662,330 Mount Hwy,Saint John,New Brunswick,H9G 6A0,2,0
+967,Hotel,763,242 West Sharp Hill Lane,Vancouver,British Columbia,K9B 0P5,5,0
+968,Hotel,362,3253 S Mount Blvd,Drummondville,Quebec,G9C 6K4,4,0
+969,Affordable_Housing,663,1375 Red Chapel Hill Parkway,Warman,Saskatchewan,V1K 5L5,5,0
+970,Social_Housing,764,40 West Buttonwood Parkway,Shelburne,Nova Scotia,K7R 3N8,2,0
+971,Market_Rental,827,18 N Ashwood Hwy,Burnaby,British Columbia,R1K 2B8,3,0
+972,Affordable_Housing,664,880 SW Brentwood Ave,Kugluktuk,Nunavut,R1H 0C5,4,0
+973,Shelter,765,3260 South Riverside Parkway,Montreal,Quebec,T6W 1P2,3,0
+974,Affordable_Housing,262,1015 SW Rose Hill Ave,Saskatoon,Saskatchewan,C5R 5H2,4,0
+975,Market_Rental,925,2996 Monument Dr,Montreal,Quebec,S8N 1X2,3,1
+976,Affordable_Housing,828,723 Hazelwood Pkwy,Brandon,Manitoba,B4K 6S1,2,0
+977,Market_Rental,363,609 Bayview Dr,Laval,Quebec,J2R 3X1,2,1
+978,Hotel,263,1561 Red Front Ct,Springfield,Manitoba,L3B 2B1,1,0
+979,Hotel,665,680 Rock Hill Rd,London,Ontario,G9S 5T7,3,1
+980,Affordable_Housing,364,1771 2nd Ct,Regina,Saskatchewan,Y2W 6L0,5,0
+981,Social_Housing,264,400 Brentwood Cir,Brampton,Ontario,S2J 5V6,2,0
+982,Hotel,766,2892 Flintwood Blvd,Laval,Quebec,Y8R 0Z6,1,0
+983,Social_Housing,666,3561 SW Oak Ct,Saskatoon,Saskatchewan,L7A 8B6,5,1
+984,Affordable_Housing,767,171 NW Farmview St,Kensington,Prince Edward Island,H4M 1G7,4,0
+985,Market_Rental,667,1887 White Rockwood Highway,Kelowna,British Columbia,G5Z 4G8,1,1
+986,Affordable_Housing,768,401 SW Farmview Circle,Mount Pearl,Newfoundland and Labrador,H8G 8N3,4,0
+987,Market_Rental,668,3907 SW Cedar Tree Loop,Saskatoon,Saskatchewan,B0E 2G0,3,0
+988,Shelter,769,154 Old Farmview Parkway,Trois-Rivieres,Quebec,N8B 6Z7,1,0
+989,Affordable_Housing,669,1206 SE Front Ln,Montreal,Quebec,E8K 5P4,2,0
+990,Social_Housing,770,112 N Fox Hill Ct,Shelburne,Nova Scotia,B5B 6B6,4,0
+991,Social_Housing,670,582 Chapel Hill Street,Grande Prairie,Alberta,R4A 1C2,2,0
+992,Affordable_Housing,771,200 Chapel Hill Street,Kitchener,Ontario,K4N 4R9,1,0
+993,Social_Housing,671,567 Old Social Street,Windsor,Ontario,V3K 6L6,2,0
+994,Social_Housing,772,14 W Mount Pkwy,Mississauga,Ontario,A8G 6M0,4,0
+995,Shelter,672,3034 New Social Ct,Winnipeg,Manitoba,L5A 5A8,4,0
+996,Hotel,773,1042 NW Glenwood Lane,Moncton,New Brunswick,S2T 5B4,2,0
+997,Social_Housing,673,39 NW Rose Hill Cir,Mississauga,Ontario,K6A 9X1,3,0
+998,Market_Rental,774,680 Glenwood Hwy,Longueuil,Quebec,K1M 8N3,5,1
+999,Shelter,674,3347 NE Church Parkway,Burnaby,British Columbia,X0R 1H7,5,0
+1000,Affordable_Housing,775,105 Edgewood Blvd,Winnipeg,Manitoba,M2M 8A2,5,0
